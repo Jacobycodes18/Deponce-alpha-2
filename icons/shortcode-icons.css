@@ -1,0 +1,99 @@
+i[class*="shortcode-icon"][data-is-container=true],
+i[class*="shortcode-icon"],
+i[class^="shortcode-icon"] {
+    background-image: url(../images/shortcode-icons.png);
+    background-repeat: no-repeat;
+    display: block;
+    background-size: auto;
+}
+
+div.vc_el-container i.shortcode-icon-banner,
+.wpb_element_title i.shortcode-icon-banner {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-blog,
+.wpb_element_title i.shortcode-icon-blog {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-categories,
+.wpb_element_title i.shortcode-icon-categories {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-google-map,
+.wpb_element_title i.shortcode-icon-google-map {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-portfolio,
+.wpb_element_title i.shortcode-icon-portfolio {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-price-list,
+.wpb_element_title i.shortcode-icon-price-list {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-price-list-2,
+.wpb_element_title i.shortcode-icon-price-list-2 {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-product,
+.wpb_element_title i.shortcode-icon-product {
+    width: 32px;
+    height: 32px;
+    background-position: -47px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-product-banner,
+.wpb_element_title i.shortcode-icon-product-banner {
+    width: 32px;
+    height: 32px;
+    background-position: -89px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-skills,
+.wpb_element_title i.shortcode-icon-skills {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -5px;
+}
+
+div.vc_el-container i.shortcode-icon-testimonials,
+.wpb_element_title i.shortcode-icon-testimonials {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -47px;
+}
+
+div.vc_el-container i.shortcode-icon-video,
+.wpb_element_title i.shortcode-icon-video {
+    width: 32px;
+    height: 32px;
+    background-position: -131px -89px;
+}
+
+div.vc_el-container i.shortcode-icon-split-screen,
+.wpb_element_title i.shortcode-icon-split-screen {
+    width: 32px;
+    height: 32px;
+    background-position: -5px -131px;
+}

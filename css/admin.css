@@ -1,0 +1,142 @@
+.wpb_novo_banner.wpb_content_element {
+    background: 0 0;
+}
+
+.wpb_novo_banner > .vc_controls {
+    opacity: 1!important;
+    filter: alpha(opacity=100)!important;
+    visibility: visible;
+    position: relative;
+    height: 23px;
+    margin: 18px 0 2px;
+    border: 1px dotted #e6e6e6;
+    border-bottom-width: 0;
+}
+
+div.wpb_novo_banner:hover > div.vc_controls {
+    right: 0;
+}
+
+.wpb_novo_banner>div.wpb_element_wrapper {
+    background: none;
+    padding: 0;
+}
+
+.checkbox-switch {
+    position: relative;
+    /* width: 74px; */
+    min-width: 50px;
+    display: inline-block;
+    float: left;
+    margin-right: 15px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.checkbox-switch-checkbox {
+    position: absolute;
+    outline: 0;
+    top: 2px;
+    left: 0
+}
+
+.checkbox-switch-checkbox:foucs {
+    outline: 0
+}
+
+.checkbox-switch-label {
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    border: 0 solid #999;
+    border-radius: 0
+}
+
+.checkbox-switch-inner {
+    width: 200%;
+    margin-left: -100%;
+    -moz-transition: margin .3s ease-in 0s;
+    -webkit-transition: margin .3s ease-in 0s;
+    -o-transition: margin .3s ease-in 0s;
+    transition: margin .3s ease-in 0s
+}
+
+.checkbox-switch-inner>div {
+    float: left;
+    position: relative;
+    width: 50%;
+    height: 24px;
+    padding: 0;
+    line-height: 24px;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+.checkbox-switch-inner .checkbox-switch-active {
+    padding-left: 15px;
+    background-color: #ccc;
+    color: #fff
+}
+
+.checkbox-switch-inner .checkbox-switch-inactive {
+    padding-right: 15px;
+    background-color: #ccc;
+    color: #fff;
+    text-align: right
+}
+
+.checkbox-switch-switch {
+    /* width: 35px; */
+    margin: 0;
+    text-align: center;
+    border: 0 solid #999;
+    border-radius: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    padding: 0 5px;
+}
+
+.checkbox-switch-active .checkbox-switch-switch {
+    background: #1eab29;
+    left: 0;
+}
+
+.checkbox-switch-inactive .checkbox-switch-switch {
+    background: #7d7d7d;
+    right: 0
+}
+
+.checkbox-switch-checkbox:checked+.checkbox-switch-label .checkbox-switch-inner {
+    margin-left: 0
+}
+
+#redux-header .rAds {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.button-style1,
+.vc_btn3-container .vc_general.vc_btn3 {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: uppercase;
+    border: 1px solid #c48f56;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: transparent;
+    border-radius: 0;
+    color: inherit;
+}
+
+.button-style1:hover,
+.vc_btn3-container .vc_general.vc_btn3:hover {
+    background: #c48f56;
+}

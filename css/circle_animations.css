@@ -1,0 +1,2399 @@
+.skill-item .chart[data-percent="1"].animated .outer {
+    stroke-dashoffset: 533.24;
+    -webkit-animation: skill_show1 2s;
+    animation: skill_show1 2s;
+}
+
+@-webkit-keyframes skill_show1 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 533.24;
+    }
+}
+
+@keyframes skill_show1 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 533.24;
+    }
+}
+
+.skill-item .chart[data-percent="2"].animated .outer {
+    stroke-dashoffset: 531.48;
+    -webkit-animation: skill_show2 2s;
+    animation: skill_show2 2s;
+}
+
+@-webkit-keyframes skill_show2 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 531.48;
+    }
+}
+
+@keyframes skill_show2 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 531.48;
+    }
+}
+
+.skill-item .chart[data-percent="3"].animated .outer {
+    stroke-dashoffset: 529.72;
+    -webkit-animation: skill_show3 2s;
+    animation: skill_show3 2s;
+}
+
+@-webkit-keyframes skill_show3 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 529.72;
+    }
+}
+
+@keyframes skill_show3 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 529.72;
+    }
+}
+
+.skill-item .chart[data-percent="4"].animated .outer {
+    stroke-dashoffset: 527.96;
+    -webkit-animation: skill_show4 2s;
+    animation: skill_show4 2s;
+}
+
+@-webkit-keyframes skill_show4 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 527.96;
+    }
+}
+
+@keyframes skill_show4 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 527.96;
+    }
+}
+
+.skill-item .chart[data-percent="5"].animated .outer {
+    stroke-dashoffset: 526.2;
+    -webkit-animation: skill_show5 2s;
+    animation: skill_show5 2s;
+}
+
+@-webkit-keyframes skill_show5 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 526.2;
+    }
+}
+
+@keyframes skill_show5 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 526.2;
+    }
+}
+
+.skill-item .chart[data-percent="6"].animated .outer {
+    stroke-dashoffset: 524.44;
+    -webkit-animation: skill_show6 2s;
+    animation: skill_show6 2s;
+}
+
+@-webkit-keyframes skill_show6 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 524.44;
+    }
+}
+
+@keyframes skill_show6 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 524.44;
+    }
+}
+
+.skill-item .chart[data-percent="7"].animated .outer {
+    stroke-dashoffset: 522.68;
+    -webkit-animation: skill_show7 2s;
+    animation: skill_show7 2s;
+}
+
+@-webkit-keyframes skill_show7 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 522.68;
+    }
+}
+
+@keyframes skill_show7 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 522.68;
+    }
+}
+
+.skill-item .chart[data-percent="8"].animated .outer {
+    stroke-dashoffset: 520.92;
+    -webkit-animation: skill_show8 2s;
+    animation: skill_show8 2s;
+}
+
+@-webkit-keyframes skill_show8 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 520.92;
+    }
+}
+
+@keyframes skill_show8 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 520.92;
+    }
+}
+
+.skill-item .chart[data-percent="9"].animated .outer {
+    stroke-dashoffset: 519.16;
+    -webkit-animation: skill_show9 2s;
+    animation: skill_show9 2s;
+}
+
+@-webkit-keyframes skill_show9 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 519.16;
+    }
+}
+
+@keyframes skill_show9 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 519.16;
+    }
+}
+
+.skill-item .chart[data-percent="10"].animated .outer {
+    stroke-dashoffset: 517.4;
+    -webkit-animation: skill_show10 2s;
+    animation: skill_show10 2s;
+}
+
+@-webkit-keyframes skill_show10 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 517.4;
+    }
+}
+
+@keyframes skill_show10 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 517.4;
+    }
+}
+
+.skill-item .chart[data-percent="11"].animated .outer {
+    stroke-dashoffset: 515.64;
+    -webkit-animation: skill_show11 2s;
+    animation: skill_show11 2s;
+}
+
+@-webkit-keyframes skill_show11 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 515.64;
+    }
+}
+
+@keyframes skill_show11 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 515.64;
+    }
+}
+
+.skill-item .chart[data-percent="12"].animated .outer {
+    stroke-dashoffset: 513.88;
+    -webkit-animation: skill_show12 2s;
+    animation: skill_show12 2s;
+}
+
+@-webkit-keyframes skill_show12 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 513.88;
+    }
+}
+
+@keyframes skill_show12 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 513.88;
+    }
+}
+
+.skill-item .chart[data-percent="13"].animated .outer {
+    stroke-dashoffset: 512.12;
+    -webkit-animation: skill_show13 2s;
+    animation: skill_show13 2s;
+}
+
+@-webkit-keyframes skill_show13 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 512.12;
+    }
+}
+
+@keyframes skill_show13 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 512.12;
+    }
+}
+
+.skill-item .chart[data-percent="14"].animated .outer {
+    stroke-dashoffset: 510.36;
+    -webkit-animation: skill_show14 2s;
+    animation: skill_show14 2s;
+}
+
+@-webkit-keyframes skill_show14 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 510.36;
+    }
+}
+
+@keyframes skill_show14 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 510.36;
+    }
+}
+
+.skill-item .chart[data-percent="15"].animated .outer {
+    stroke-dashoffset: 508.6;
+    -webkit-animation: skill_show15 2s;
+    animation: skill_show15 2s;
+}
+
+@-webkit-keyframes skill_show15 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 508.6;
+    }
+}
+
+@keyframes skill_show15 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 508.6;
+    }
+}
+
+.skill-item .chart[data-percent="16"].animated .outer {
+    stroke-dashoffset: 506.84;
+    -webkit-animation: skill_show16 2s;
+    animation: skill_show16 2s;
+}
+
+@-webkit-keyframes skill_show16 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 506.84;
+    }
+}
+
+@keyframes skill_show16 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 506.84;
+    }
+}
+
+.skill-item .chart[data-percent="17"].animated .outer {
+    stroke-dashoffset: 505.08;
+    -webkit-animation: skill_show17 2s;
+    animation: skill_show17 2s;
+}
+
+@-webkit-keyframes skill_show17 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 505.08;
+    }
+}
+
+@keyframes skill_show17 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 505.08;
+    }
+}
+
+.skill-item .chart[data-percent="18"].animated .outer {
+    stroke-dashoffset: 503.32;
+    -webkit-animation: skill_show18 2s;
+    animation: skill_show18 2s;
+}
+
+@-webkit-keyframes skill_show18 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 503.32;
+    }
+}
+
+@keyframes skill_show18 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 503.32;
+    }
+}
+
+.skill-item .chart[data-percent="19"].animated .outer {
+    stroke-dashoffset: 501.56;
+    -webkit-animation: skill_show19 2s;
+    animation: skill_show19 2s;
+}
+
+@-webkit-keyframes skill_show19 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 501.56;
+    }
+}
+
+@keyframes skill_show19 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 501.56;
+    }
+}
+
+.skill-item .chart[data-percent="20"].animated .outer {
+    stroke-dashoffset: 499.8;
+    -webkit-animation: skill_show20 2s;
+    animation: skill_show20 2s;
+}
+
+@-webkit-keyframes skill_show20 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 499.8;
+    }
+}
+
+@keyframes skill_show20 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 499.8;
+    }
+}
+
+.skill-item .chart[data-percent="21"].animated .outer {
+    stroke-dashoffset: 498.04;
+    -webkit-animation: skill_show21 2s;
+    animation: skill_show21 2s;
+}
+
+@-webkit-keyframes skill_show21 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 498.04;
+    }
+}
+
+@keyframes skill_show21 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 498.04;
+    }
+}
+
+.skill-item .chart[data-percent="22"].animated .outer {
+    stroke-dashoffset: 496.28;
+    -webkit-animation: skill_show22 2s;
+    animation: skill_show22 2s;
+}
+
+@-webkit-keyframes skill_show22 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 496.28;
+    }
+}
+
+@keyframes skill_show22 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 496.28;
+    }
+}
+
+.skill-item .chart[data-percent="23"].animated .outer {
+    stroke-dashoffset: 494.52;
+    -webkit-animation: skill_show23 2s;
+    animation: skill_show23 2s;
+}
+
+@-webkit-keyframes skill_show23 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 494.52;
+    }
+}
+
+@keyframes skill_show23 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 494.52;
+    }
+}
+
+.skill-item .chart[data-percent="24"].animated .outer {
+    stroke-dashoffset: 492.76;
+    -webkit-animation: skill_show24 2s;
+    animation: skill_show24 2s;
+}
+
+@-webkit-keyframes skill_show24 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 492.76;
+    }
+}
+
+@keyframes skill_show24 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 492.76;
+    }
+}
+
+.skill-item .chart[data-percent="25"].animated .outer {
+    stroke-dashoffset: 491;
+    -webkit-animation: skill_show25 2s;
+    animation: skill_show25 2s;
+}
+
+@-webkit-keyframes skill_show25 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 491;
+    }
+}
+
+@keyframes skill_show25 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 491;
+    }
+}
+
+.skill-item .chart[data-percent="26"].animated .outer {
+    stroke-dashoffset: 489.24;
+    -webkit-animation: skill_show26 2s;
+    animation: skill_show26 2s;
+}
+
+@-webkit-keyframes skill_show26 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 489.24;
+    }
+}
+
+@keyframes skill_show26 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 489.24;
+    }
+}
+
+.skill-item .chart[data-percent="27"].animated .outer {
+    stroke-dashoffset: 487.48;
+    -webkit-animation: skill_show27 2s;
+    animation: skill_show27 2s;
+}
+
+@-webkit-keyframes skill_show27 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 487.48;
+    }
+}
+
+@keyframes skill_show27 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 487.48;
+    }
+}
+
+.skill-item .chart[data-percent="28"].animated .outer {
+    stroke-dashoffset: 485.72;
+    -webkit-animation: skill_show28 2s;
+    animation: skill_show28 2s;
+}
+
+@-webkit-keyframes skill_show28 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 485.72;
+    }
+}
+
+@keyframes skill_show28 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 485.72;
+    }
+}
+
+.skill-item .chart[data-percent="29"].animated .outer {
+    stroke-dashoffset: 483.96;
+    -webkit-animation: skill_show29 2s;
+    animation: skill_show29 2s;
+}
+
+@-webkit-keyframes skill_show29 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 483.96;
+    }
+}
+
+@keyframes skill_show29 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 483.96;
+    }
+}
+
+.skill-item .chart[data-percent="30"].animated .outer {
+    stroke-dashoffset: 482.2;
+    -webkit-animation: skill_show30 2s;
+    animation: skill_show30 2s;
+}
+
+@-webkit-keyframes skill_show30 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 482.2;
+    }
+}
+
+@keyframes skill_show30 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 482.2;
+    }
+}
+
+.skill-item .chart[data-percent="31"].animated .outer {
+    stroke-dashoffset: 480.44;
+    -webkit-animation: skill_show31 2s;
+    animation: skill_show31 2s;
+}
+
+@-webkit-keyframes skill_show31 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 480.44;
+    }
+}
+
+@keyframes skill_show31 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 480.44;
+    }
+}
+
+.skill-item .chart[data-percent="32"].animated .outer {
+    stroke-dashoffset: 478.68;
+    -webkit-animation: skill_show32 2s;
+    animation: skill_show32 2s;
+}
+
+@-webkit-keyframes skill_show32 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 478.68;
+    }
+}
+
+@keyframes skill_show32 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 478.68;
+    }
+}
+
+.skill-item .chart[data-percent="33"].animated .outer {
+    stroke-dashoffset: 476.92;
+    -webkit-animation: skill_show33 2s;
+    animation: skill_show33 2s;
+}
+
+@-webkit-keyframes skill_show33 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 476.92;
+    }
+}
+
+@keyframes skill_show33 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 476.92;
+    }
+}
+
+.skill-item .chart[data-percent="34"].animated .outer {
+    stroke-dashoffset: 475.16;
+    -webkit-animation: skill_show34 2s;
+    animation: skill_show34 2s;
+}
+
+@-webkit-keyframes skill_show34 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 475.16;
+    }
+}
+
+@keyframes skill_show34 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 475.16;
+    }
+}
+
+.skill-item .chart[data-percent="35"].animated .outer {
+    stroke-dashoffset: 473.4;
+    -webkit-animation: skill_show35 2s;
+    animation: skill_show35 2s;
+}
+
+@-webkit-keyframes skill_show35 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 473.4;
+    }
+}
+
+@keyframes skill_show35 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 473.4;
+    }
+}
+
+.skill-item .chart[data-percent="36"].animated .outer {
+    stroke-dashoffset: 471.64;
+    -webkit-animation: skill_show36 2s;
+    animation: skill_show36 2s;
+}
+
+@-webkit-keyframes skill_show36 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 471.64;
+    }
+}
+
+@keyframes skill_show36 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 471.64;
+    }
+}
+
+.skill-item .chart[data-percent="37"].animated .outer {
+    stroke-dashoffset: 469.88;
+    -webkit-animation: skill_show37 2s;
+    animation: skill_show37 2s;
+}
+
+@-webkit-keyframes skill_show37 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 469.88;
+    }
+}
+
+@keyframes skill_show37 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 469.88;
+    }
+}
+
+.skill-item .chart[data-percent="38"].animated .outer {
+    stroke-dashoffset: 468.12;
+    -webkit-animation: skill_show38 2s;
+    animation: skill_show38 2s;
+}
+
+@-webkit-keyframes skill_show38 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 468.12;
+    }
+}
+
+@keyframes skill_show38 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 468.12;
+    }
+}
+
+.skill-item .chart[data-percent="39"].animated .outer {
+    stroke-dashoffset: 466.36;
+    -webkit-animation: skill_show39 2s;
+    animation: skill_show39 2s;
+}
+
+@-webkit-keyframes skill_show39 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 466.36;
+    }
+}
+
+@keyframes skill_show39 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 466.36;
+    }
+}
+
+.skill-item .chart[data-percent="40"].animated .outer {
+    stroke-dashoffset: 464.6;
+    -webkit-animation: skill_show40 2s;
+    animation: skill_show40 2s;
+}
+
+@-webkit-keyframes skill_show40 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 464.6;
+    }
+}
+
+@keyframes skill_show40 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 464.6;
+    }
+}
+
+.skill-item .chart[data-percent="41"].animated .outer {
+    stroke-dashoffset: 462.84;
+    -webkit-animation: skill_show41 2s;
+    animation: skill_show41 2s;
+}
+
+@-webkit-keyframes skill_show41 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 462.84;
+    }
+}
+
+@keyframes skill_show41 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 462.84;
+    }
+}
+
+.skill-item .chart[data-percent="42"].animated .outer {
+    stroke-dashoffset: 461.08;
+    -webkit-animation: skill_show42 2s;
+    animation: skill_show42 2s;
+}
+
+@-webkit-keyframes skill_show42 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 461.08;
+    }
+}
+
+@keyframes skill_show42 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 461.08;
+    }
+}
+
+.skill-item .chart[data-percent="43"].animated .outer {
+    stroke-dashoffset: 459.32;
+    -webkit-animation: skill_show43 2s;
+    animation: skill_show43 2s;
+}
+
+@-webkit-keyframes skill_show43 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 459.32;
+    }
+}
+
+@keyframes skill_show43 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 459.32;
+    }
+}
+
+.skill-item .chart[data-percent="44"].animated .outer {
+    stroke-dashoffset: 457.56;
+    -webkit-animation: skill_show44 2s;
+    animation: skill_show44 2s;
+}
+
+@-webkit-keyframes skill_show44 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 457.56;
+    }
+}
+
+@keyframes skill_show44 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 457.56;
+    }
+}
+
+.skill-item .chart[data-percent="45"].animated .outer {
+    stroke-dashoffset: 455.8;
+    -webkit-animation: skill_show45 2s;
+    animation: skill_show45 2s;
+}
+
+@-webkit-keyframes skill_show45 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 455.8;
+    }
+}
+
+@keyframes skill_show45 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 455.8;
+    }
+}
+
+.skill-item .chart[data-percent="46"].animated .outer {
+    stroke-dashoffset: 454.04;
+    -webkit-animation: skill_show46 2s;
+    animation: skill_show46 2s;
+}
+
+@-webkit-keyframes skill_show46 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 454.04;
+    }
+}
+
+@keyframes skill_show46 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 454.04;
+    }
+}
+
+.skill-item .chart[data-percent="47"].animated .outer {
+    stroke-dashoffset: 452.28;
+    -webkit-animation: skill_show47 2s;
+    animation: skill_show47 2s;
+}
+
+@-webkit-keyframes skill_show47 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 452.28;
+    }
+}
+
+@keyframes skill_show47 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 452.28;
+    }
+}
+
+.skill-item .chart[data-percent="48"].animated .outer {
+    stroke-dashoffset: 450.52;
+    -webkit-animation: skill_show48 2s;
+    animation: skill_show48 2s;
+}
+
+@-webkit-keyframes skill_show48 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 450.52;
+    }
+}
+
+@keyframes skill_show48 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 450.52;
+    }
+}
+
+.skill-item .chart[data-percent="49"].animated .outer {
+    stroke-dashoffset: 448.76;
+    -webkit-animation: skill_show49 2s;
+    animation: skill_show49 2s;
+}
+
+@-webkit-keyframes skill_show49 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 448.76;
+    }
+}
+
+@keyframes skill_show49 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 448.76;
+    }
+}
+
+.skill-item .chart[data-percent="50"].animated .outer {
+    stroke-dashoffset: 447;
+    -webkit-animation: skill_show50 2s;
+    animation: skill_show50 2s;
+}
+
+@-webkit-keyframes skill_show50 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 447;
+    }
+}
+
+@keyframes skill_show50 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 447;
+    }
+}
+
+.skill-item .chart[data-percent="51"].animated .outer {
+    stroke-dashoffset: 445.24;
+    -webkit-animation: skill_show51 2s;
+    animation: skill_show51 2s;
+}
+
+@-webkit-keyframes skill_show51 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 445.24;
+    }
+}
+
+@keyframes skill_show51 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 445.24;
+    }
+}
+
+.skill-item .chart[data-percent="52"].animated .outer {
+    stroke-dashoffset: 443.48;
+    -webkit-animation: skill_show52 2s;
+    animation: skill_show52 2s;
+}
+
+@-webkit-keyframes skill_show52 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 443.48;
+    }
+}
+
+@keyframes skill_show52 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 443.48;
+    }
+}
+
+.skill-item .chart[data-percent="53"].animated .outer {
+    stroke-dashoffset: 441.72;
+    -webkit-animation: skill_show53 2s;
+    animation: skill_show53 2s;
+}
+
+@-webkit-keyframes skill_show53 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 441.72;
+    }
+}
+
+@keyframes skill_show53 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 441.72;
+    }
+}
+
+.skill-item .chart[data-percent="54"].animated .outer {
+    stroke-dashoffset: 439.96;
+    -webkit-animation: skill_show54 2s;
+    animation: skill_show54 2s;
+}
+
+@-webkit-keyframes skill_show54 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 439.96;
+    }
+}
+
+@keyframes skill_show54 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 439.96;
+    }
+}
+
+.skill-item .chart[data-percent="55"].animated .outer {
+    stroke-dashoffset: 438.2;
+    -webkit-animation: skill_show55 2s;
+    animation: skill_show55 2s;
+}
+
+@-webkit-keyframes skill_show55 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 438.2;
+    }
+}
+
+@keyframes skill_show55 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 438.2;
+    }
+}
+
+.skill-item .chart[data-percent="56"].animated .outer {
+    stroke-dashoffset: 436.44;
+    -webkit-animation: skill_show56 2s;
+    animation: skill_show56 2s;
+}
+
+@-webkit-keyframes skill_show56 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 436.44;
+    }
+}
+
+@keyframes skill_show56 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 436.44;
+    }
+}
+
+.skill-item .chart[data-percent="57"].animated .outer {
+    stroke-dashoffset: 434.68;
+    -webkit-animation: skill_show57 2s;
+    animation: skill_show57 2s;
+}
+
+@-webkit-keyframes skill_show57 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 434.68;
+    }
+}
+
+@keyframes skill_show57 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 434.68;
+    }
+}
+
+.skill-item .chart[data-percent="58"].animated .outer {
+    stroke-dashoffset: 432.92;
+    -webkit-animation: skill_show58 2s;
+    animation: skill_show58 2s;
+}
+
+@-webkit-keyframes skill_show58 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 432.92;
+    }
+}
+
+@keyframes skill_show58 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 432.92;
+    }
+}
+
+.skill-item .chart[data-percent="59"].animated .outer {
+    stroke-dashoffset: 431.16;
+    -webkit-animation: skill_show59 2s;
+    animation: skill_show59 2s;
+}
+
+@-webkit-keyframes skill_show59 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 431.16;
+    }
+}
+
+@keyframes skill_show59 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 431.16;
+    }
+}
+
+.skill-item .chart[data-percent="60"].animated .outer {
+    stroke-dashoffset: 429.4;
+    -webkit-animation: skill_show60 2s;
+    animation: skill_show60 2s;
+}
+
+@-webkit-keyframes skill_show60 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 429.4;
+    }
+}
+
+@keyframes skill_show60 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 429.4;
+    }
+}
+
+.skill-item .chart[data-percent="61"].animated .outer {
+    stroke-dashoffset: 427.64;
+    -webkit-animation: skill_show61 2s;
+    animation: skill_show61 2s;
+}
+
+@-webkit-keyframes skill_show61 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 427.64;
+    }
+}
+
+@keyframes skill_show61 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 427.64;
+    }
+}
+
+.skill-item .chart[data-percent="62"].animated .outer {
+    stroke-dashoffset: 425.88;
+    -webkit-animation: skill_show62 2s;
+    animation: skill_show62 2s;
+}
+
+@-webkit-keyframes skill_show62 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 425.88;
+    }
+}
+
+@keyframes skill_show62 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 425.88;
+    }
+}
+
+.skill-item .chart[data-percent="63"].animated .outer {
+    stroke-dashoffset: 424.12;
+    -webkit-animation: skill_show63 2s;
+    animation: skill_show63 2s;
+}
+
+@-webkit-keyframes skill_show63 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 424.12;
+    }
+}
+
+@keyframes skill_show63 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 424.12;
+    }
+}
+
+.skill-item .chart[data-percent="64"].animated .outer {
+    stroke-dashoffset: 422.36;
+    -webkit-animation: skill_show64 2s;
+    animation: skill_show64 2s;
+}
+
+@-webkit-keyframes skill_show64 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 422.36;
+    }
+}
+
+@keyframes skill_show64 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 422.36;
+    }
+}
+
+.skill-item .chart[data-percent="65"].animated .outer {
+    stroke-dashoffset: 420.6;
+    -webkit-animation: skill_show65 2s;
+    animation: skill_show65 2s;
+}
+
+@-webkit-keyframes skill_show65 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 420.6;
+    }
+}
+
+@keyframes skill_show65 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 420.6;
+    }
+}
+
+.skill-item .chart[data-percent="66"].animated .outer {
+    stroke-dashoffset: 418.84;
+    -webkit-animation: skill_show66 2s;
+    animation: skill_show66 2s;
+}
+
+@-webkit-keyframes skill_show66 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 418.84;
+    }
+}
+
+@keyframes skill_show66 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 418.84;
+    }
+}
+
+.skill-item .chart[data-percent="67"].animated .outer {
+    stroke-dashoffset: 417.08;
+    -webkit-animation: skill_show67 2s;
+    animation: skill_show67 2s;
+}
+
+@-webkit-keyframes skill_show67 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 417.08;
+    }
+}
+
+@keyframes skill_show67 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 417.08;
+    }
+}
+
+.skill-item .chart[data-percent="68"].animated .outer {
+    stroke-dashoffset: 415.32;
+    -webkit-animation: skill_show68 2s;
+    animation: skill_show68 2s;
+}
+
+@-webkit-keyframes skill_show68 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 415.32;
+    }
+}
+
+@keyframes skill_show68 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 415.32;
+    }
+}
+
+.skill-item .chart[data-percent="69"].animated .outer {
+    stroke-dashoffset: 413.56;
+    -webkit-animation: skill_show69 2s;
+    animation: skill_show69 2s;
+}
+
+@-webkit-keyframes skill_show69 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 413.56;
+    }
+}
+
+@keyframes skill_show69 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 413.56;
+    }
+}
+
+.skill-item .chart[data-percent="70"].animated .outer {
+    stroke-dashoffset: 411.8;
+    -webkit-animation: skill_show70 2s;
+    animation: skill_show70 2s;
+}
+
+@-webkit-keyframes skill_show70 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 411.8;
+    }
+}
+
+@keyframes skill_show70 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 411.8;
+    }
+}
+
+.skill-item .chart[data-percent="71"].animated .outer {
+    stroke-dashoffset: 410.04;
+    -webkit-animation: skill_show71 2s;
+    animation: skill_show71 2s;
+}
+
+@-webkit-keyframes skill_show71 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 410.04;
+    }
+}
+
+@keyframes skill_show71 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 410.04;
+    }
+}
+
+.skill-item .chart[data-percent="72"].animated .outer {
+    stroke-dashoffset: 408.28;
+    -webkit-animation: skill_show72 2s;
+    animation: skill_show72 2s;
+}
+
+@-webkit-keyframes skill_show72 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 408.28;
+    }
+}
+
+@keyframes skill_show72 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 408.28;
+    }
+}
+
+.skill-item .chart[data-percent="73"].animated .outer {
+    stroke-dashoffset: 406.52;
+    -webkit-animation: skill_show73 2s;
+    animation: skill_show73 2s;
+}
+
+@-webkit-keyframes skill_show73 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 406.52;
+    }
+}
+
+@keyframes skill_show73 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 406.52;
+    }
+}
+
+.skill-item .chart[data-percent="74"].animated .outer {
+    stroke-dashoffset: 404.76;
+    -webkit-animation: skill_show74 2s;
+    animation: skill_show74 2s;
+}
+
+@-webkit-keyframes skill_show74 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 404.76;
+    }
+}
+
+@keyframes skill_show74 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 404.76;
+    }
+}
+
+.skill-item .chart[data-percent="75"].animated .outer {
+    stroke-dashoffset: 403;
+    -webkit-animation: skill_show75 2s;
+    animation: skill_show75 2s;
+}
+
+@-webkit-keyframes skill_show75 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 403;
+    }
+}
+
+@keyframes skill_show75 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 403;
+    }
+}
+
+.skill-item .chart[data-percent="76"].animated .outer {
+    stroke-dashoffset: 401.24;
+    -webkit-animation: skill_show76 2s;
+    animation: skill_show76 2s;
+}
+
+@-webkit-keyframes skill_show76 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 401.24;
+    }
+}
+
+@keyframes skill_show76 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 401.24;
+    }
+}
+
+.skill-item .chart[data-percent="77"].animated .outer {
+    stroke-dashoffset: 399.48;
+    -webkit-animation: skill_show77 2s;
+    animation: skill_show77 2s;
+}
+
+@-webkit-keyframes skill_show77 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 399.48;
+    }
+}
+
+@keyframes skill_show77 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 399.48;
+    }
+}
+
+.skill-item .chart[data-percent="78"].animated .outer {
+    stroke-dashoffset: 397.72;
+    -webkit-animation: skill_show78 2s;
+    animation: skill_show78 2s;
+}
+
+@-webkit-keyframes skill_show78 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 397.72;
+    }
+}
+
+@keyframes skill_show78 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 397.72;
+    }
+}
+
+.skill-item .chart[data-percent="79"].animated .outer {
+    stroke-dashoffset: 395.96;
+    -webkit-animation: skill_show79 2s;
+    animation: skill_show79 2s;
+}
+
+@-webkit-keyframes skill_show79 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 395.96;
+    }
+}
+
+@keyframes skill_show79 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 395.96;
+    }
+}
+
+.skill-item .chart[data-percent="80"].animated .outer {
+    stroke-dashoffset: 394.2;
+    -webkit-animation: skill_show80 2s;
+    animation: skill_show80 2s;
+}
+
+@-webkit-keyframes skill_show80 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 394.2;
+    }
+}
+
+@keyframes skill_show80 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 394.2;
+    }
+}
+
+.skill-item .chart[data-percent="81"].animated .outer {
+    stroke-dashoffset: 392.44;
+    -webkit-animation: skill_show81 2s;
+    animation: skill_show81 2s;
+}
+
+@-webkit-keyframes skill_show81 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 392.44;
+    }
+}
+
+@keyframes skill_show81 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 392.44;
+    }
+}
+
+.skill-item .chart[data-percent="82"].animated .outer {
+    stroke-dashoffset: 390.68;
+    -webkit-animation: skill_show82 2s;
+    animation: skill_show82 2s;
+}
+
+@-webkit-keyframes skill_show82 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 390.68;
+    }
+}
+
+@keyframes skill_show82 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 390.68;
+    }
+}
+
+.skill-item .chart[data-percent="83"].animated .outer {
+    stroke-dashoffset: 388.92;
+    -webkit-animation: skill_show83 2s;
+    animation: skill_show83 2s;
+}
+
+@-webkit-keyframes skill_show83 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 388.92;
+    }
+}
+
+@keyframes skill_show83 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 388.92;
+    }
+}
+
+.skill-item .chart[data-percent="84"].animated .outer {
+    stroke-dashoffset: 387.16;
+    -webkit-animation: skill_show84 2s;
+    animation: skill_show84 2s;
+}
+
+@-webkit-keyframes skill_show84 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 387.16;
+    }
+}
+
+@keyframes skill_show84 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 387.16;
+    }
+}
+
+.skill-item .chart[data-percent="85"].animated .outer {
+    stroke-dashoffset: 385.4;
+    -webkit-animation: skill_show85 2s;
+    animation: skill_show85 2s;
+}
+
+@-webkit-keyframes skill_show85 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 385.4;
+    }
+}
+
+@keyframes skill_show85 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 385.4;
+    }
+}
+
+.skill-item .chart[data-percent="86"].animated .outer {
+    stroke-dashoffset: 383.64;
+    -webkit-animation: skill_show86 2s;
+    animation: skill_show86 2s;
+}
+
+@-webkit-keyframes skill_show86 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 383.64;
+    }
+}
+
+@keyframes skill_show86 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 383.64;
+    }
+}
+
+.skill-item .chart[data-percent="87"].animated .outer {
+    stroke-dashoffset: 381.88;
+    -webkit-animation: skill_show87 2s;
+    animation: skill_show87 2s;
+}
+
+@-webkit-keyframes skill_show87 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 381.88;
+    }
+}
+
+@keyframes skill_show87 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 381.88;
+    }
+}
+
+.skill-item .chart[data-percent="88"].animated .outer {
+    stroke-dashoffset: 380.12;
+    -webkit-animation: skill_show88 2s;
+    animation: skill_show88 2s;
+}
+
+@-webkit-keyframes skill_show88 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 380.12;
+    }
+}
+
+@keyframes skill_show88 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 380.12;
+    }
+}
+
+.skill-item .chart[data-percent="89"].animated .outer {
+    stroke-dashoffset: 378.36;
+    -webkit-animation: skill_show89 2s;
+    animation: skill_show89 2s;
+}
+
+@-webkit-keyframes skill_show89 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 378.36;
+    }
+}
+
+@keyframes skill_show89 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 378.36;
+    }
+}
+
+.skill-item .chart[data-percent="90"].animated .outer {
+    stroke-dashoffset: 376.6;
+    -webkit-animation: skill_show90 2s;
+    animation: skill_show90 2s;
+}
+
+@-webkit-keyframes skill_show90 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 376.6;
+    }
+}
+
+@keyframes skill_show90 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 376.6;
+    }
+}
+
+.skill-item .chart[data-percent="91"].animated .outer {
+    stroke-dashoffset: 374.84;
+    -webkit-animation: skill_show91 2s;
+    animation: skill_show91 2s;
+}
+
+@-webkit-keyframes skill_show91 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 374.84;
+    }
+}
+
+@keyframes skill_show91 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 374.84;
+    }
+}
+
+.skill-item .chart[data-percent="92"].animated .outer {
+    stroke-dashoffset: 373.08;
+    -webkit-animation: skill_show92 2s;
+    animation: skill_show92 2s;
+}
+
+@-webkit-keyframes skill_show92 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 373.08;
+    }
+}
+
+@keyframes skill_show92 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 373.08;
+    }
+}
+
+.skill-item .chart[data-percent="93"].animated .outer {
+    stroke-dashoffset: 371.32;
+    -webkit-animation: skill_show93 2s;
+    animation: skill_show93 2s;
+}
+
+@-webkit-keyframes skill_show93 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 371.32;
+    }
+}
+
+@keyframes skill_show93 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 371.32;
+    }
+}
+
+.skill-item .chart[data-percent="94"].animated .outer {
+    stroke-dashoffset: 369.56;
+    -webkit-animation: skill_show94 2s;
+    animation: skill_show94 2s;
+}
+
+@-webkit-keyframes skill_show94 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 369.56;
+    }
+}
+
+@keyframes skill_show94 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 369.56;
+    }
+}
+
+.skill-item .chart[data-percent="95"].animated .outer {
+    stroke-dashoffset: 367.8;
+    -webkit-animation: skill_show95 2s;
+    animation: skill_show95 2s;
+}
+
+@-webkit-keyframes skill_show95 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 367.8;
+    }
+}
+
+@keyframes skill_show95 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 367.8;
+    }
+}
+
+.skill-item .chart[data-percent="96"].animated .outer {
+    stroke-dashoffset: 366.04;
+    -webkit-animation: skill_show96 2s;
+    animation: skill_show96 2s;
+}
+
+@-webkit-keyframes skill_show96 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 366.04;
+    }
+}
+
+@keyframes skill_show96 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 366.04;
+    }
+}
+
+.skill-item .chart[data-percent="97"].animated .outer {
+    stroke-dashoffset: 364.28;
+    -webkit-animation: skill_show97 2s;
+    animation: skill_show97 2s;
+}
+
+@-webkit-keyframes skill_show97 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 364.28;
+    }
+}
+
+@keyframes skill_show97 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 364.28;
+    }
+}
+
+.skill-item .chart[data-percent="98"].animated .outer {
+    stroke-dashoffset: 362.52;
+    -webkit-animation: skill_show98 2s;
+    animation: skill_show98 2s;
+}
+
+@-webkit-keyframes skill_show98 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 362.52;
+    }
+}
+
+@keyframes skill_show98 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 362.52;
+    }
+}
+
+.skill-item .chart[data-percent="99"].animated .outer {
+    stroke-dashoffset: 360.76;
+    -webkit-animation: skill_show99 2s;
+    animation: skill_show99 2s;
+}
+
+@-webkit-keyframes skill_show99 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 360.76;
+    }
+}
+
+@keyframes skill_show99 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 360.76;
+    }
+}
+
+.skill-item .chart[data-percent="100"].animated .outer {
+    stroke-dashoffset: 359;
+    -webkit-animation: skill_show100 2s;
+    animation: skill_show100 2s;
+}
+
+@-webkit-keyframes skill_show100 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 359;
+    }
+}
+
+@keyframes skill_show100 {
+    from {
+        stroke-dashoffset: 535;
+    }
+    to {
+        stroke-dashoffset: 359;
+    }
+}
