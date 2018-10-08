@@ -49,7 +49,7 @@
 </head>
 
 
-<body class="page-template page-template-template-landing page-template-template-landing-php page page-id-977 woocommerce-js site-dark header_type_logo_left header_space_no right-click-disable wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+<body class="page-template page-template-template-landing page-template-template-landing-php page page-id-977 woocommerce-js site-light header_type_logo_left header_space_no right-click-disable wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
 
 <div class="right-click-disable-message main-row" data-anchor="login">
         <div class="container">
@@ -149,7 +149,7 @@
 				</div>
 <!--preloader-->
 <!--Nav------------->
-<header class="site-header header_logo_left dark main-row">
+<header class="site-header header_logo_left light main-row">
     <div class="container-fluid">
         <div class="side-bar-button multimedia-icon-list"></div>
         <div class="logo"><a href="../home/">DEPONCE</a></div>
