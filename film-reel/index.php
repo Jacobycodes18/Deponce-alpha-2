@@ -21,16 +21,21 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
                     
                     <div class="container">
                         <div class="cell middle">
+                           <div class="content popup-gallery images"> 
+                           <div class="angle">
+                               <span></span>
+                               <span></span>
+                               <span></span>
+                               <span></span>
+                           </div>
                             <div class="heading">
                 <h1 class="h">THIS IS DEPONCE</h1>
             </div>
-                            <div class="text">
-                                <div>
-                                   Photography is the science, art, application and practice of creating durable images by recording light or electromagnetic radiation 
-                                </div>
-                            </div>
-                            <a href="#" class="button-style1">see more</a>
+                            <a data-type="video" href="#">
+                            <i class="web-application-icon-play-video-button"></i>
+                            </a>
                         </div>
+                </div>
                     </div>
             </div>
             
