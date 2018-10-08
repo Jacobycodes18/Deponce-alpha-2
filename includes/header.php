@@ -28,6 +28,7 @@
 <link rel='stylesheet' id='novo-style-css'  href='../css/new-style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='novo-mobile-css'  href='../css/mobile.css' type='text/css' media='all' />
 
+
 <link rel='stylesheet' id='animate-css-css'  href='../plugins/js_composer/assets/lib/bower/animate-css/animate.min8b06.css?ver=5.4.7' type='text/css' media='all' />
 
 <script type='text/javascript' src='../js/jquery/jqueryb8ff.js'></script>
@@ -73,7 +74,9 @@
                         </span>
                         <br>
                         <input class="wpcf7-form-control wpcf7-submit button-style1" type="submit" name="submit" value="Submit">
+                        <p class="lost-password" style="margin-left: 0;"><a href="../reset-password/">Forgot Password</a></p>
                     </div>
+                    
                     <?php
                             include_once 'login-errors.php';
                     ?>
