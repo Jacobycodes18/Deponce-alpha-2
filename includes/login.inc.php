@@ -44,7 +44,7 @@ session_start();
                         $_SESSION['u_last'] = $row['user_last'];
                         $_SESSION['u_email'] = $row['user_email'];
                         $_SESSION['u_uid'] = $row['user_uid'];
-                        header("Location: ../home/index.php?login=success");
+                        header("Location: ../auth/account.php?login=success");
                         exit();
                         
                     }
