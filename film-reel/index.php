@@ -20,6 +20,7 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
             <div class="item vertical-parallax-item5bb24c8143b62 tac white inner-shadow active" style="background-image: url(../images/taxis_skyline-insta_crop.jpg); z-index: 4;">
                     
                     <div class="container">
+                    
                         <div class="cell middle">
                            <div class="content popup-gallery images"> 
                            <div class="angle">
@@ -31,9 +32,13 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
                             <div class="heading">
                 <h1 class="h">THIS IS DEPONCE</h1>
             </div>
-                            <a data-type="video" href="#">
-                            <i class="web-application-icon-play-video-button"></i>
+                            
+                            <a style="display: inline-block; font-size: 30px; text-decoration: none; width: 80px; height: 80px; border: 2px solid #c48f56; text-indent: 0.1em; border-radius: 50%;" href="#">
+                            <i style="display: block;
+    line-height: 76px;" class="fa fa-play"></i>
                             </a>
+                            
+                            
                         </div>
                 </div>
                     </div>
@@ -43,12 +48,26 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
                     <video class="jquery-background-video is-playing is-visible" playsinline autoplay muted loop id="myVideo" src="../media/test%20broll%20v.1.mp4" type="video/mp4" style="min-width: auto; min-height: auto; width: 100vw; height: auto; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); transition-duration: 500ms;">
                     </video>
                     <div class="container">
-                        <div class="cell bottom">
-                            <div class="heading-with-num">
-                                <div class="num">05</div>
-                                <h3 class="h">B-roll<br/>Jacoby Clarke</h3>
-                            </div>
+                        <div class="cell middle">
+                           <div class="content popup-gallery images"> 
+                           <div class="angle">
+                               <span></span>
+                               <span></span>
+                               <span></span>
+                               <span></span>
+                           </div>
+                            <div class="heading">
+                <h1 class="h">THIS IS DEPONCE</h1>
+            </div>
+                            
+                            <a style="display: inline-block; font-size: 30px; text-decoration: none; width: 80px; height: 80px; border: 2px solid #c48f56; text-indent: 0.1em; border-radius: 50%;" href="#">
+                            <i style="display: block;
+    line-height: 76px;" class="fa fa-play"></i>
+                            </a>
+                            
+                            
                         </div>
+                </div>
                     </div>
                     
             </div>
