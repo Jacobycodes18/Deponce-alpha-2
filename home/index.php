@@ -39,7 +39,7 @@
                             <a href="#" class="button-style1">see more</a>
                         </div>
                     </div>
-            </div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1520603085521 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="side-image wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1520601753764"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1520603984660"><div class="wpb_wrapper"><div class="heading-decor-s tal"><h3 style="text-align: left" class="h vc_custom_heading" ><div>We Are Novo<br />
+            </div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1520603085521 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="side-image wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1520601753764"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1520603984660"><div class="wpb_wrapper"><div class="heading-decor-s tal"><h3 style="text-align: left" class="h vc_custom_heading" ><div>We Are Novo<br />
 Creative Studio.</div></h3></div>
 <div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">

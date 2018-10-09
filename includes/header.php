@@ -27,6 +27,7 @@
 <link rel='stylesheet' id='novo-style-css'  href='../css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='novo-style-css'  href='../css/new-style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='novo-mobile-css'  href='../css/mobile.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-min'  href='../css/animate.min8b06.css' type='text/css' media='all' />
 
 
 <link rel='stylesheet' id='animate-css-css'  href='../plugins/js_composer/assets/lib/bower/animate-css/animate.min8b06.css?ver=5.4.7' type='text/css' media='all' />
