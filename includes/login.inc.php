@@ -11,7 +11,10 @@ session_start();
 
         //error handlers
         //check if inputs are empty
-
+        if ($_SESSION) {
+            header("Location: ../home/?login=alreadyLoggedIn");
+            exit();
+        } else {
         if (empty($uid) || empty($pwd)) {
             header("Location: ../home/?login=empty#login");
             exit();
@@ -52,6 +55,7 @@ session_start();
             }
         }
     }
+        }
 } else {
     header("Location: ../home/?login=error#login");
     exit();

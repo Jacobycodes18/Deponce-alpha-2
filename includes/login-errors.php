@@ -6,6 +6,8 @@
                         
         if ($loginCheck == "empty") {
         echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Please Fill in all Fields.</div>'; 
+        } elseif ($loginCheck == "alreadyLoggedIn") {
+            echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Already Logged in.</div>';
         } elseif ($loginCheck == "error") {
             echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Incorrect email or password.</div>';
         } elseif ($loginCheck == "verifyEmail") {
