@@ -45,7 +45,7 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
             </div>
             
              <div class="item vertical-parallax-item5bb24c8143d53 tac white inner-shadow active" style="position: relative; overflow: hidden; background-size: cover; background-position: center center; background-repeat: no-repeat; background-image: url("");">
-                    <video class="jquery-background-video is-playing is-visible" playsinline autoplay muted loop id="myVideo" src="../media/test%20broll%20v.1.mp4" type="video/mp4" style="min-width: auto; min-height: auto; width: 100vw; height: auto; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); transition-duration: 500ms;">
+                    <video class="jquery-background-video is-playing is-visible" playsinline muted id="myVideo" src="../media/story_vid.mp4" type="video/mp4" style="min-width: auto; min-height: auto; width: 100vw; height: auto; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); transition-duration: 500ms;">
                     </video>
                     <div class="container">
                         <div class="cell middle">
@@ -60,7 +60,7 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
                 <h1 class="h">THIS IS DEPONCE</h1>
             </div>
                             
-                            <a style="display: inline-block; font-size: 30px; text-decoration: none; width: 80px; height: 80px; border: 2px solid #c48f56; text-indent: 0.1em; border-radius: 50%;" href="#">
+                            <a id="play" style="display: inline-block; font-size: 30px; text-decoration: none; width: 80px; height: 80px; border: 2px solid #c48f56; text-indent: 0.1em; border-radius: 50%;" href="#">
                             <i style="display: block;
     line-height: 76px;" class="fa fa-play"></i>
                             </a>
@@ -85,7 +85,14 @@ vertical-parallax-item5bb24c814414a tal white inner-shadow
 
 		</div>
 	</main>
-
+<script>
+const video = document.getElementById('myVideo');
+    const play = document.getElementById('play');
+    
+    play.addEventListener('click', () => {
+        video.play();
+    });
+</script>
 
 </body>
 </html>
