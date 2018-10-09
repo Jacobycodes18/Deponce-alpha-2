@@ -33,7 +33,7 @@
                             } elseif ($resetCheck == "nan"){
                                 echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Entered email is not registerd with us.</div>'; 
                             } elseif ($resetCheck == "sent"){
-                                echo '<div class="wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok" role="alert" style="display:block;">Please check your email for a Password Reset link. It will expire in five minutes.</div>';
+                                echo '<div class="wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok" role="alert" style="display:block;">Please check your email for a Password Reset link. It will expire in ten minutes.</div>';
         }
                                 }
                     ?>

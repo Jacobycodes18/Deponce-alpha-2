@@ -23,7 +23,7 @@
             $token = str_shuffle($token);
             $token = substr($token, 0, 10);
             
-            $sql = "UPDATE users SET token = '$token', tokenExpire = DATE_ADD(NOW(), INTERVAL 5 MINUTE) WHERE user_email = '$email'";
+            $sql = "UPDATE users SET token = '$token', tokenExpire = DATE_ADD(NOW(), INTERVAL 10 MINUTE) WHERE user_email = '$email'";
             mysqli_query($conn, $sql);
             
             require_once '../vendor/autoload.php';
