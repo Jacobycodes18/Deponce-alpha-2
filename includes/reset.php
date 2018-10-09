@@ -2,7 +2,31 @@
     include 'header.php';
 
     if (!isset($_GET['email']) && !isset($_GET['token'])) {
-        header("Location: ../home/index.php?error2");
+        echo '<section class="main-row">
+		<div class="container-fluid no-padding">
+			<!-- Banner -->
+			<div class="banner-area external-indent">
+				<div class="banner-social-buttons">
+				    <div class="links">
+				        <a href="#" class="item"><i class="fa fa-facebook"></i> <span>Facebook</span></a>
+				        <a href="#" class="item"><i class="fa fa-instagram"></i> <span>Instagram</span></a>
+				        <a href="#" class="item"><i class="fa fa-twitter"></i> <span>Twitter</span></a>										    </div>
+				</div>
+				<div class="banner banner-404 white">
+					<div class="item tac" style="background-image: url(https://images.pexels.com/photos/158229/lost-places-pforphoto-leave-factory-158229.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)">
+					<div class="container">
+						<div class="cell middle">
+							<h1 class="b-404-heading"><span>404</span><br>ERROR</h1>
+							<p>The link you are using has expired.</p>
+							<a href="../Novo-simplified/home" class="button-style1">GET BACK HOME</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- END Banner -->
+		</div>
+    </div>
+	</section>';
         exit();
         
     } else {
@@ -64,9 +88,25 @@
                         <br>
                         <input class="input wpcf7-form-control wpcf7-submit button-style1" type="submit" name="submit" value="Reset Password">
                         </span>
-                    </form>
-                    
-                </div>
+                    </form>'
+                    ?>
+                    <?php
+                        if(!isset($_GET['error'])) {
+                            return; 
+                        } else {
+                            $check = $_GET['error'];
+
+                            if ($check == "empty") {
+                            echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Must input both fields.</div>'; 
+                            } elseif ($check == "pass"){
+                                echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Passwords do not match.</div>'; 
+                            } elseif ($check == "nan"){
+                                echo '<div class="wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok" role="alert" style="display:block;">Password successfully changed.</div>';
+                                }
+                                }
+?>
+                    <?php
+                '</div>
             </div>
         </article>'
                     ;

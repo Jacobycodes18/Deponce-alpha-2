@@ -302,6 +302,7 @@
                             if(isset($_SESSION['u_id'])) {
                                 echo '<p style="padding: 0;margin:0;">Welcome,</p>';
                                 echo  $_SESSION['u_uid'];
+                                echo '<a href="../auth/account.php" style="padding: 10px 0px 10px 0px;margin:0;">My Account</a>';
                               echo '<form action="../includes/logout.inc.php" method="post">
                        <input class="wpcf7-form-control wpcf7-submit button-style1" type="submit" name="submit" value="Logout">
                    </form>';
