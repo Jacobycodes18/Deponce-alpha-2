@@ -27,10 +27,6 @@
 <link rel='stylesheet' id='novo-style-css'  href='../css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='novo-style-css'  href='../css/new-style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='novo-mobile-css'  href='../css/mobile.css' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-min'  href='../css/animate.min8b06.css' type='text/css' media='all' />
-
-
-<link rel='stylesheet' id='animate-css-css'  href='../plugins/js_composer/assets/lib/bower/animate-css/animate.min8b06.css?ver=5.4.7' type='text/css' media='all' />
 
 <script type='text/javascript' src='../js/jquery/jqueryb8ff.js'></script>
 <script type='text/javascript' src='../js/jquery/jquery-migrate.min330a.js'></script>
@@ -44,6 +40,7 @@
 <script type="text/javascript" src="../js/load-posts.js"></script>
 <script type="text/javascript" src="../plugins/angular/lib/angular.min.js"></script>
 <script type="text/javascript" src="../plugins/angular/lib/app/acc.js"></script>
+
 
 
 
@@ -355,11 +352,11 @@
 </form></div>
 				</div>
 -->
-
+<link rel='stylesheet' id='animate-css-css'  href='../plugins/js_composer/assets/lib/bower/animate-css/animate.min8b06.css?ver=5.4.7' type='text/css' media='all' />
 				
-				
+<!--<script type="text/javascript" src="../plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min8b06.js"></script>				-->
 <script type='text/javascript' src='../js/main.js'></script>
-  <script type='text/javascript' src='../js/scripts972f.js'></script>
+<script type='text/javascript' src='../js/scripts972f.js'></script>
 <script type='text/javascript' src='../js/nav.js'></script>
 <script type='text/javascript' src='../js/js_composer_front.min.js'></script>
 <script type='text/javascript' src='../js/skip-link-focus-fix.js'></script>
@@ -368,5 +365,7 @@
 <script type='text/javascript' src='../js/jquery.flipster.min.js'></script>
 <script type='text/javascript' src='../js/selectivizr-min.js'></script>
 <script type='text/javascript' src='../js/customizer.js'></script>
+<script type='text/javascript' src='../plugins/js_composer/assets/lib/waypoints/wp-embed.min55fe.js'></script>
+<script type='text/javascript' src='../plugins/js_composer/assets/lib/waypoints/waypoints.min8b06.js'></script>
 <script type='text/javascript' src='../js/login.js'></script>
 <script></script>
