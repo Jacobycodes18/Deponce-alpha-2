@@ -54,7 +54,7 @@
 		<div class="wpb_wrapper">
 			<div role="form" class="wpcf7" id="wpcf7-f760-p753-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="http://deponce.jacobyclarke.io/testd/contacts/#wpcf7-f760-p753-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<form action="../includes/contact.php" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="760" />
 <input type="hidden" name="_wpcf7_version" value="5.0.1" />
@@ -63,12 +63,29 @@
 <input type="hidden" name="_wpcf7_container_post" value="753" />
 </div>
 <div class="tac" style="max-width: 350px; margin: 0 auto;">
-<span class="wpcf7-form-control-wrap name-p"><input type="text" name="name-p" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your name" /></span><br />
-<span class="wpcf7-form-control-wrap mail"><input type="text" name="mail" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your e-mail" /></span><br />
-<span class="wpcf7-form-control-wrap text"><textarea name="text" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your Message"></textarea></span><br />
-<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit button-style1" />
+<span class="wpcf7-form-control-wrap name-p"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your name" /></span><br />
+<span class="wpcf7-form-control-wrap mail"><input type="text" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your e-mail" /></span><br />
+<span class="wpcf7-form-control-wrap text"><textarea name="message" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your Message"></textarea></span><br />
+<input type="submit" value="Submit" name="submit" class="wpcf7-form-control wpcf7-submit button-style1" />
 </div>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+<div class="wpcf7-response-output wpcf7-display-none"></div>
+        <?php
+                        if(!isset($_GET['error'])) {
+                             
+                        } else {
+                            $resetCheck = $_GET['error'];
+
+                            if ($resetCheck == "notSubmit") {
+                            echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Something went wrong. Try again.</div>'; 
+                            } elseif ($resetCheck == "empty"){
+                                echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Please fill in all fields.</div>'; 
+                            } elseif ($resetCheck == "email"){
+                                echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Please enter a valid email.</div>';
+                            } elseif ($resetCheck == "success"){
+                                echo '<div class="wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok" role="alert" style="display:block;">Message Sent. We will be in touch shortly.</div>';
+        }
+                                }
+                    ?></form></div>
 
 		</div>
 	</div>
