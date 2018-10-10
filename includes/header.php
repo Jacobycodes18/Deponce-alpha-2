@@ -40,7 +40,8 @@
 <script type="text/javascript" src="../js/load-posts.js"></script>
 <script type="text/javascript" src="../plugins/angular/lib/angular.min.js"></script>
 <script type="text/javascript" src="../plugins/angular/lib/app/acc.js"></script>
-
+<script type="text/javascript" src="../js/instafeed.min.js"></script>
+<script type="text/javascript" src="../js/create-feed.js"></script>
 
 
 
@@ -139,11 +140,11 @@
 						<div class="preloader_content__container">
 							<p class="preloader_content__container__text">DEPONCE</p>
 															<ul class="preloader_content__container__list count_5">
-																			<li class="preloader_content__container__list__item">portfolio</li>
-																			<li class="preloader_content__container__list__item">photography</li>
-																			<li class="preloader_content__container__list__item">magazine</li>
-																			<li class="preloader_content__container__list__item">Image</li>
-																			<li class="preloader_content__container__list__item">cinematography</li>
+																			<li class="preloader_content__container__list__item">Portfolio</li>
+																			<li class="preloader_content__container__list__item">Photography</li>
+																			<li class="preloader_content__container__list__item">Magazine</li>
+																			<li class="preloader_content__container__list__item">Film Reel</li>
+																			<li class="preloader_content__container__list__item">Content</li>
 																	</ul>
 													</div>
 					</div>
