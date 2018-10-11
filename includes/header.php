@@ -38,8 +38,11 @@
 
 <script type="text/javascript" src="../js/load-images.js"></script>
 <script type="text/javascript" src="../js/load-posts.js"></script>
+<script type="text/javascript" src="../plugins/angular/lib/angular.min.js"></script>
+<script type="text/javascript" src="../js/accApp.js"></script>
 <script type="text/javascript" src="../js/instafeed.min.js"></script>
 <script type="text/javascript" src="../js/create-feed.js"></script>
+
 
 
 

@@ -4,14 +4,15 @@
     if(!$_SESSION) {
 //        header("Location: ../home/?pleaseLogin#login");
         echo 'please login to continue';
-        exit();
+//        exit();
     } else {
         echo 'logged in';
     }
 ?>
-
-<main ng-app="accountUi">
-   <div ng-controller="accountUi">
-               
-   </div>
+ <main class="main-row">
+		<div class="container">
+            <div ng-app="accApp">
+               <div ng-view></div>
+            </div>
+     </div>
 </main>
