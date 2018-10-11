@@ -1216,6 +1216,11 @@ textarea.style3 {
     transform: translateX(0);
 }
 
+.navtwo {
+    display: flex;
+    
+}
+
 .navtwo > ul > .menu-item:hover {
     color: #c48f56;
 }

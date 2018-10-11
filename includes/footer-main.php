@@ -2,13 +2,23 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-xs-12 col-md-4">
-								<div class="logo"><a href="../home">DEPONCE</a></div>
+								<div style="padding:px;margin:0px;" class="h5"><a href="../home">DEPONCE</a></div>
 								     <nav class="navtwo visible_menu hover-style1">
                 <ul id="menu-navigation" class="menu">
-                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../site-map/"><span>Site Map</span></a>
+                    <p class="h6" style="padding:0;margin:0;margin-left:-5px;">Info</p>
+                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../faq/"><span>FAQ</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../privacy-policy/"><span>Privacy Policy</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../cookie-policy/"><span>Cookie Policy</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../terms/"><span>Terms And Conditions</span></a>
+                    
+                </ul>
+                <ul id="menu-navigation" class="menu">
+                   <p class="h6" style="padding:0;margin:0;margin-left:-5px;">Pages</p>
+                   <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../site-map/"><span>Site Map</span></a>
+                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../news/"><span>News</span></a>
+                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../auth/account.php"><span>My Account</span></a>
+                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="#"><span>Shop</span></a>
+                    
                     
                 </ul>
             </nav>															
