@@ -7,7 +7,8 @@ td {
     border-top: 1px solid #b8b8b8 !important;
     background: white;
     line-height: 2rem;
-    min-width: 140px;
+    min-width: 140px !important;
+    width: 100%;
 }
     
     tr {
@@ -28,6 +29,9 @@ th {
     .left-pane {
         padding-left: 20px;
     }
+    .right-pane {
+        width: 45%;
+    }
     .mod {
         width: 45%;
     }
@@ -40,8 +44,8 @@ th {
     }
 </style>
 
-<div class="main-row">
-    <div class="left-pane">
+<div class="main-row split">
+    <div class="left-pane col-xs-12 col-md-6">
         <h6>Basic Information</h6>
         <div class="mod">
             <table>
@@ -71,5 +75,14 @@ th {
             </table>
         </div>
     </div>
-    <div class="right-pane"></div>
+    <div class="right-pane col-xs-12 col-md-6">
+        <h6>Security Settings</h6>
+        <div class="mod">
+            <table>
+                <tr>
+                    <td><strong>Full Name</strong></td><td><?php echo $_SESSION['u_first']; echo ' ';echo $_SESSION['u_last'];?></td>
+                </tr>
+            </table>
+        </div>
+    </div>
 </div>

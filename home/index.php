@@ -22,7 +22,7 @@
 									<a href="https://instagram.com/thisisdeponce/" class="item" target="_blank">
 										<i class="fa fa-instagram"></i> Instagram
 									</a>
-									<a href="#" class="item" target="_blank">
+									<a href="https://twitter.com/ThisIsDeponce" class="item" target="_blank">
 										<i class="fa fa-twitter"></i> Twitter
 									</a>
 									<a href="#" class="item">
