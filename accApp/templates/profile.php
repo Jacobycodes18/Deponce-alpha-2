@@ -1,16 +1,75 @@
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 50px !important;}.vc_custom_1505137671714{height: 64px;}.vc_custom_1506089730271{background-color: #f0f0f0 !important;height: 65vh;min-height: 400px;padding: 0 !important; display: block !important;}.vc_custom_1506089730272{background-color: #e8e8e8 !important;float: left;width: 200px;height: 100%;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<?php
+    session_start();
+?>
+<style>
+td {
+    border-bottom: 1px solid #b8b8b8 !important;
+    border-top: 1px solid #b8b8b8 !important;
+    background: white;
+    line-height: 2rem;
+    min-width: 140px;
+}
+    
+    tr {
+        border-right: 1px solid #b8b8b8;
+        border-left: 1px solid #b8b8b8;
+    }
 
-<div class="header-space"></div>
+table {
+    border-collapse: collapse;
+    border: none;
+    width: 100%;
+    font-size: 0.9rem;
+}
 
-<div class="vc_row wpb_row vc_row-fluid vc_custom_1505137157448 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
-    <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
-        <div class="vc_column-inner vc_custom_1506089730271">
-            <div class="footer-social-button vc_custom_1505137671714">
-                <h6>Profile</h6>
-            </div>
-            <div id="left-control-panel" class="vc_column-inner vc_custom_1506089730272">
-                
-            </div>
+th {
+    height: 50px;
+}
+    .left-pane {
+        padding-left: 20px;
+    }
+    .mod {
+        width: 45%;
+    }
+    .edit {
+        float: right;
+        padding: 5px;
+    }
+    .scroll {
+        overflow-y: scroll !important;
+    }
+</style>
+
+<div class="main-row">
+    <div class="left-pane">
+        <h6>Basic Information</h6>
+        <div class="mod">
+            <table>
+                <tr>
+                    <td><strong>Full Name</strong></td><td><?php echo $_SESSION['u_first']; echo ' ';echo $_SESSION['u_last'];?></td>
+                </tr>
+                <tr>
+                    <td><strong>Email</strong></td><td><?php echo $_SESSION['u_email']?><i class="fa fa-pencil edit"></i></td>
+                </tr>
+                <tr>
+                    <td><strong>Username</strong></td><td><?php echo $_SESSION['u_uid']?><i class="fa fa-pencil edit"></i></td>
+                </tr>
+                <tr>
+                    <td><strong>Password</strong></td><td><a href="#">Change Password</a></td>
+                </tr>
+            </table>
+        </div>
+        <h6>Additional Information</h6>
+        <div class="mod">
+            <table>
+                <tr>
+                    <td><strong>Gender</strong></td><td><a href="#">Add Gender</a></td>
+                </tr>
+                <tr>
+                    <td><strong>Phone Number</strong></td><td><a href="#">Add Phone</a></td>
+                </tr>
+            </table>
         </div>
     </div>
+    <div class="right-pane"></div>
 </div>
