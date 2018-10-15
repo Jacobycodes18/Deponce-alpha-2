@@ -809,26 +809,26 @@ jQuery(document).ready(function() {
 	/*------------------------------------------------------------------
 	[ Portfolio items & filtering ]
 	*/
-//	jQuery(window).bind("load", function(){
-//		jQuery('.portfolio-items').each(function(){
-//			var wrap = jQuery(this); 
-//			wrap.imagesLoaded( function() {
-//				var $grid = wrap.isotope({
-//					itemSelector: 'article',
-//					masonry: {
-//						horizontalOrder: true
-//					}
-//				});
-//			});
-//
-//			jQuery(this).prev('.filter-button-group').on( 'click', 'button', function() {
-//				jQuery(this).addClass('active').siblings().removeClass('active');
-//				var filterValue = jQuery(this).attr('data-filter');
-//				wrap.isotope({ filter: filterValue });
-//				jQuery(window).trigger('resize').trigger('scroll');
-//			});
-//		});
-//	});
+	jQuery(window).bind("load", function(){
+		jQuery('.portfolio-items').each(function(){
+			var wrap = jQuery(this); 
+			 function thss() {
+				var $grid = wrap.isotope({
+					itemSelector: 'article',
+					masonry: {
+						horizontalOrder: true
+					}
+				});
+			};
+
+			jQuery(this).prev('.filter-button-group').on( 'click', 'button', function() {
+				jQuery(this).addClass('active').siblings().removeClass('active');
+				var filterValue = jQuery(this).attr('data-filter');
+				wrap.isotope({ filter: filterValue });
+				jQuery(window).trigger('resize').trigger('scroll');
+			});
+		});
+	});
 
 	/*------------------------------------------------------------------
 	[ Blog items & filtering ]
