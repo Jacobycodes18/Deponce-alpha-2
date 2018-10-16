@@ -6,7 +6,7 @@
         <div class="container">
            <div class="header-space"></div>
             <div class="vc_row wpb_row vc_row-fluid vc_custom_1520603085521 vc_row-has-fill vc_row-o-equal-height vc_row-flex">
-			<div class="wpb_column vc_column_container vc_col-sm-12">
+			<div class="wpb_column wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_column_container vc_col-sm-12">
 				<div class="vc_column-inner vc_custom_1520603984660">
 					<div class="wpb_wrapper">
 						<div class="heading-decor-s tal">
