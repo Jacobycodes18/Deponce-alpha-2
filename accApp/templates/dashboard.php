@@ -1,4 +1,10 @@
-<style>
+<?php
+    session_start();
+    if (!$_SESSION) {
+        exit();
+    }
+?>
+   <style>
     .border {
         margin: 10px;
         border: solid 2px #e8e8e8;
