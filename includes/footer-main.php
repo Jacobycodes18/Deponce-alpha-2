@@ -17,7 +17,6 @@
                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../site-map/"><span>Site Map</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../news/"><span>News</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../auth/account.php"><span>My Account</span></a>
-                    <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="#"><span>Shop</span></a>
                     
                     
                 </ul>
