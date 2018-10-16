@@ -10,6 +10,7 @@
 	<style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style>
 </noscript>
 <style type="text/css" title="dynamic-css" class="options-output">body{font-family:Montserrat;font-weight:400;font-style:normal;color:#161616;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}h1, .h1{font-family:Montserrat;font-weight:700;font-style:normal;font-size:60px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, .h1,{opacity: 0;}.ie.wf-loading h1, .h1,{visibility: hidden;}h2, .h2{font-family:Montserrat;font-weight:700;font-style:normal;font-size:48px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h2, .h2,{opacity: 0;}.ie.wf-loading h2, .h2,{visibility: hidden;}h3, .h3{font-family:Montserrat;font-weight:700;font-style:normal;font-size:36px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h3, .h3,{opacity: 0;}.ie.wf-loading h3, .h3,{visibility: hidden;}h4, .h4{font-family:Montserrat;font-weight:700;font-style:normal;font-size:30px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h4, .h4,{opacity: 0;}.ie.wf-loading h4, .h4,{visibility: hidden;}h5, .h5{font-family:Montserrat;font-weight:700;font-style:normal;font-size:24px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h5, .h5,{opacity: 0;}.ie.wf-loading h5, .h5,{visibility: hidden;}h6, .h6{font-family:Montserrat;font-weight:700;font-style:normal;font-size:18px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h6, .h6,{opacity: 0;}.ie.wf-loading h6, .h6,{visibility: hidden;}.banner-404{color:#ffffff;}.banner-404 .b-404-heading{color:#c48f56;}.banner-coming-soon{color:#ffffff;}.banner-coming-soon .b-coming-heading{color:#c48f56;}</style>
+
 <main class="main-row">
 	<div class="container">
 		<div data-vc-full-width-mod="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
@@ -111,11 +112,11 @@ I’m a photographer.
 									<a href="#" class="button-style1">view more</a>
 								</div>
 								<div class="item" data-name="mission">
-									<div class="text">My style is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph!</div>
+									<div class="text">2</div>
 									<a href="#" class="button-style1">view more</a>
 								</div>
 								<div class="item" data-name="vision">
-									<div class="text">My style is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph!</div>
+									<div class="text">3</div>
 									<a href="#" class="button-style1">view more</a>
 								</div>
 							</div>
@@ -475,6 +476,7 @@ jQuery(document).ready(function(jQuery) {
             });
         });
 
+                                                    
 												</script>
 											</body>
 										</html>

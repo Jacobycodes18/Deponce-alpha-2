@@ -54,13 +54,15 @@ jQuery(window).on('load', function () {
 	}
 });
 
+jQuery(document).ready(function() {
+
 jQuery('.tabs-head').on('click', '.item:not(.active-tab)', function() {  
 	jQuery(this).addClass('active-tab').siblings().removeClass('active-tab').parents('.tabs').find('.tabs-body .item').eq(jQuery(this).index()).fadeIn(150).siblings().hide();  
 });
 
 function leadZero(n) { return (n < 10 ? '0' : '') + n; }
 
-jQuery(document).ready(function() {
+
 
 	jQuery('.tabs').each(function(){
 		var item = jQuery(this).find('.tabs-body > .item'),
