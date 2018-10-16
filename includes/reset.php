@@ -1,4 +1,6 @@
 <?php
+
+
     include 'header.php';
 
     if (!isset($_GET['email']) && !isset($_GET['token'])) {
@@ -78,7 +80,7 @@
                 <div class="container">
                    
                    <br>
-                    <form method="post" action="test.php?email='.$email.'&token='.$token.'">
+                    <form method="post" action="change.php?email='.$email.'&token='.$token.'">
                       <span class="wpcf7-form-control-wrap" style="">
                         <label for="pass">New Password</label>
                         <br>
@@ -102,6 +104,8 @@
                                 echo '<div class="wpcf7-response-output wpcf7-validation-errors" role="alert" style="display:block;">Passwords do not match.</div>'; 
                             } elseif ($check == "nan"){
                                 echo '<div class="wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok" role="alert" style="display:block;">Password successfully changed.</div>';
+                                
+                                
                                 }
                                 }
 ?>
