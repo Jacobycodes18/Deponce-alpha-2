@@ -14,10 +14,7 @@ td {
     width: 160px;
     padding: 0 8px 0px 8px;
 }
-    .TI {
-        width: 110px !important;
-    }
-    
+
     tr {
         border-right: 1px solid #b8b8b8;
         border-left: 1px solid #b8b8b8;
@@ -67,9 +64,6 @@ th {
     button > .fa {
         margin:0 !important;
         padding: 0;
-    }
-    .fa {
-        cursor: pointer;
     }
 </style>
 
