@@ -1,6 +1,6 @@
 <title>Deponce | Page Not Found</title>
    <?php
-    include('includes/header-one.php');
+    include('includes/header.php');
 //    require_once 'includes/subscribe_.php';
 ?>
 <div class="header-space"></div>
@@ -20,7 +20,7 @@
 						<div class="cell middle">
 							<h1 class="b-404-heading"><span>404</span><br>ERROR</h1>
 							<p>The page you are looking for doesn`t exist anymore</p>
-							<a href="../Novo-simplified/home" class="button-style1">GET BACK HOME</a>
+							<a href="../Deponce-alpha/home" class="button-style1">GET BACK HOME</a>
 						</div>
 					</div>
 				</div>

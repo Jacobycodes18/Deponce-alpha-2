@@ -45,7 +45,7 @@
 </div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-10 vc_col-lg-offset-1 vc_col-md-offset-1 vc_col-sm-offset-1"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<p style="text-align: center;"><span style="font-weight: 300; font-size: 14px;">My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph!</span></p>
+			<p style="text-align: center;"><span style="font-weight: 300; font-size: 14px;">The Deponce Team is here to provide you with more information, answer any questions you may have <br> and create a Large Business Image solution for your brand.</span></p>
 
 		</div>
 	</div>

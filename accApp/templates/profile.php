@@ -10,8 +10,8 @@ td {
     border-top: 1px solid #b8b8b8 !important;
     background: white;
     line-height: 2rem;
-    min-width: 160px;
-    width: 100%;
+    min-width: 100px;
+    width: 160px;
     padding: 0 8px 0px 8px;
 }
     .TI {

@@ -52,12 +52,17 @@
 
 
 				
-<script type='text/javascript' src='js/script.js'></script>
-  <script type='text/javascript' src='js/scripts972f.js'></script>
-<script type='text/javascript' src='js/nav.js'></script>
-<script type='text/javascript' src='js/js_composer_front.min.js'></script>
-<script type='text/javascript' src='js/skip-link-focus-fix.js'></script>
-<script type='text/javascript' src='js/photoswipe.min.js'></script>
-<script type='text/javascript' src='js/photoswipe-ui-default.min.js'></script>
-<script type='text/javascript' src='js/jquery.flipster.min.js'></script>
-<script type='text/javascript' src='js/selectivizr-min.js'></script>
+<script type='text/javascript' src='../js/main.js'></script>
+<script type='text/javascript' src='../js/scripts972f.js'></script>
+<script type='text/javascript' src='../js/nav.js'></script>
+<script type='text/javascript' src='../js/js_composer_front.min.js'></script>
+<script type='text/javascript' src='../js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='../js/photoswipe.min.js'></script>
+<script type='text/javascript' src='../js/photoswipe-ui-default.min.js'></script>
+<script type='text/javascript' src='../js/jquery.flipster.min.js'></script>
+<script type='text/javascript' src='../js/selectivizr-min.js'></script>
+<script type='text/javascript' src='../js/customizer.js'></script>
+<script type='text/javascript' src='../plugins/js_composer/assets/lib/waypoints/wp-embed.min55fe.js'></script>
+<script type='text/javascript' src='../plugins/js_composer/assets/lib/waypoints/waypoints.min8b06.js'></script>
+<script type='text/javascript' src='../js/login.js'></script>
+<script></script>

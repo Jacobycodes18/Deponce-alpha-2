@@ -26,13 +26,36 @@
     		    	<div class="item" style="background-image: url(../images/gallery/16.png);"></div>
     		    	<div class="item" style="background-image: url(../images/gallery/15.png);"></div>
 							    									    	</div>
-																						<div class="post-content">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-																																</div>
-						</div>
-						
-												</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1505137157448 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+  <div class="wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
+    <div class="vc_column-inner vc_custom_1506084117248">
+      <div class="wpb_wrapper">
+        <div class="heading-decor-s tal">
+          <h3 style="text-align: left" class="h vc_custom_heading">
+            <div>This is Deponce,<br /> Statement
+            </div>
+          </h3>
+        </div>
+        <div class="wpb_text_column wpb_content_element ">
+          <div class="wpb_wrapper">
+            <p><span style="font-size: 18px; font-weight: 300;">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</span></p>
+            <p><span style="font-size: 14px; font-weight: 200;">My style is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph! </span></p>
+
+          </div>
+        </div>
+        <div class="vc_btn3-container vc_btn3-inline">
+          <a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-" href="#" title="">read more</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+   <div class="post-content">
+      <ul>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro voluptates esse quis facere nobis facilis aperiam ipsa tempore repudiandae eius sint quam, laborum libero iure, soluta quia hic, culpa aut! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt quos veniam eos debitis sit sed ipsum minima ab, hic nihil, vel at soluta quae aliquid ipsam, quaerat iusto vero cupiditate!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo provident perspiciatis tempora, id, non possimus illum impedit in debitis deleniti error quam veritatis commodi facilis corrupti quibusdam distinctio. Omnis, dolore.</p>
+       </ul>
+   </div>
+    </div>
+        </div>
    
     </div>
 </main>

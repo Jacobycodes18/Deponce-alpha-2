@@ -121,96 +121,122 @@
             <p><i><b>in Short: </b> We only share information with your consent, to comply with laws, to protect your rights, or to fuiﬁii business obligations. We only share and disclose your information in the following situations:
                 </i></p>
         </ul>
-Compliance with Laws. We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
-
-Vital Interests and Legal Rights. We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
-
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger,
+        <ul>
+            <p><b style="font-weight: 700;">Compliance with Laws. </b>We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+            </p>
+        </ul>
+        
+        <ul>
+            <p><b style="font-weight: 700;">Vital Interests and Legal Rights. </b>We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+            </p>
+        </ul>
+        <ul>
+            <p><b style="font-weight: 700;">Business Transfers.</b> We may share or transfer your information in connection with, or during negotiations of, any merger,
 sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+            </p>
+        </ul>
+        <ul>
+            <p><b style="font-weight: 700;">Affiliates. </b>We may share your information with our afﬁliates, in which case we will require those afﬁliates to honor this privacy policy. Afﬁliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+            </p>
+        </ul>
+        <ul>
+            <p><b style="font-weight: 700;">Business Partners.</b> We may share your information with our business partners to offer you certain products, services or promotions.
+            </p>
+        </ul>
+        <ul>
+            <p><b style="font-weight: 700;">With your Consent.</b> We may disclose your personal information for any other purpose with your consent.
+            </p>
+        </ul>
+        <h1 class="h6">4. D0 WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?</h1>
+        
+        <ul><p><i>in Short: We may use cookies and other tracking technologies to collect and store your information.</i></p>
+        </ul>
+        <p>
+        We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Speciﬁc information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
+        </p>
+        <h1 class="h6">5. DO WE USE GOOGLE MAPS?</h1>
 
-Affiliates. We may share your information with our afﬁliates, in which case we will require those afﬁliates to honor this privacy policy. Afﬁliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+        <ul><p><i>in Short: Yes, we use Googie Maps for the purpose of providing better service.
+            This website, mobile application, or Facebook application uses Google Maps APls. You may ﬁnd the Google Maps APls Terms of Service here. To better understand Google's Privacy Policy, please refer to this Link.</i>
+            </p></ul>
+        <p>
+        By using our Maps API Implementation, you agree to be bound by Google's Terms of Service. You agree to allow us to obtain or cache your location. You may revoke your consent at anytime.
+        </p>
+        <h1 class="h6">6. HOW LONG DO WE KEEP YOUR INFORMATION?</h1>
+        <ul><p><i>ln Short: We keep your information for as long as necessary to fulﬁll the purposes outlined in this privacy policy unless otherwise required by law</i>
+            </p></ul>
+        <p>
+        We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 90 days past the termination of the user's account.
+        </p>
+        <p>
+        When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your persona! information and isolate it from any further processing until deletion is possible.
+        </p>
+        <h1 class="h6">7. HOW DO WE KEEP YOUR INFORMATION SAFE?</h1>
 
-Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.
+        <ul><p><i>in Short: We aim to protect your personal information through a system of organizational and technical security measures.</i>
+            </p></ul>
+        <p>
+        We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites is at your own risk. You should only access the services within a secure environment.
+        </p>
+<h1 class="h6">8. DO WE COLLECT INFORMATION FROM MINORS?</h1>
 
-With your Consent. We may disclose your personal information for any other purpose with your consent.
+        <ul><p><i>in Short: We do not knowingly collect data from or market to children under 18 years of age.</i></p></ul>
+        <p>
+        We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Sites. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@deponce.io.
+        </p>
+        <h1 class="h6">9. WHAT ARE YOUR PRIVACY RIGHTS?</h1>
 
-4. D0 WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
-
-in Short: We may use cookies and other tracking technologies to collect and store your information.
-
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Speciﬁc information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.
-
-5. DO WE USE GOOGLE MAPS?
-
-in Short: Yes, we use Googie Maps for the purpose of providing better service.
-This website, mobile application, or Facebook application uses Google Maps APls. You may ﬁnd the Google Maps APls Terms of Service here. To better understand Google's Privacy Policy, please refer to this Link.
-
-By using our Maps API Implementation, you agree to be bound by Google's Terms of Service. You agree to allow us to obtain or cache your location. You may revoke your consent at anytime.
-
-6. HOW LONG DO WE KEEP YOUR INFORMATION?
-ln Short: We keep your information for as long as necessary to fulﬁll the purposes outlined in this privacy policy unless otherwise required by law
-
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 90 days past the termination of the user's account.
-
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your persona! information and isolate it from any further processing until deletion is possible.
-
-7. HOW DO WE KEEP YOUR INFORMATION SAFE?
-
-in Short: We aim to protect your personal information through a system of organizational and technical security measures.
-
-We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites is at your own risk. You should only access the services within a secure environment.
-
-8. DO WE COLLECT INFORMATION FROM MINORS?
-
-in Short: We do not knowingly collect data from or market to children under 18 years of age.
-
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Sites. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at contact@deponce.io.
-
-9. WHAT ARE YOUR PRIVACY RIGHTS?
-
-in Short: You may review, change, or terminate your account at any time.
-
-if you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can ﬁnd their contact details here: http:Nec.europa.euljusticeldata-protectionrbodieslauthoritieslindex_en.htm
-
-Account Information
-
+        <ul><p><i>in Short: You may review, change, or terminate your account at any time.</i></p></ul>
+        <p>
+        if you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can ﬁnd their contact details here: <a href="https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm" target="_blank">https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>
+        </p>
+<h2 class="h6">Account Information</h2>
+<ul>
+    <p>
 if you would at any time like to review or change the information in your account or terminate your account, you can:
 Log into your account settings and update your user account.
-
+    </p>
+    <p>
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and or comply with legal requirements.
-
+    </p>
+<p>
 Cookies and similar technologies: Most Web browsers are set to accept cookies by default. if you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. To opt-out of interest-based advertising by advertisers on our Sites visit http://www.aboutads.info/choices/.
-
+    </p>
+<p>
 Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list - however, we will still need to send you service-related emails that are necessary for the administration and use of your account. To otherwise opt-out, you may:
+    </p>
+    <ul>
+        <p><b>Note your preferences when you register an account with the site.</b></p>
 
-Note your preferences when you register an account with the site.
+        <p><b>unsubscribe button in emails</b></p>
+    </ul>
+</ul>
+        <h1 class="h6">10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?</h1>
 
- 	unsubscribe button in emails
-
-10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-
-In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
-
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared
-personal information in the immediatety preceding calendar year. if you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-
+        <ul><p><i>In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.</i></p>
+        </ul>
+<p>
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediatety preceding calendar year. if you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+</p>
+<p>
 If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+        </p>
 
 
+        <h1 class="h6">11. DO WE MAKE UPDATES TO THIS POLICY?</h1>
 
-11. DO WE MAKE UPDATES TO THIS POLICY?
+        <ul><p><i>In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws.</i></p>
+        </ul>
 
-In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws.
+<p>We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be eﬁective as soon as it is accessible. lfwe make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notiﬁcation. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+        </p>
+        <h1 class="h6">12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</h1>
+        <ul>
+<p>If you have questions or comments about this policy, you may email us at contact@deponce.io. </p>
 
-We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be eﬁective as soon as it is accessible. lfwe make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notiﬁcation. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
-
-12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
-If you have questions or comments about this policy, you may email us at contact@deponce.io or by post to:
-Deponce LLC
-If you have any further questions or comments about us or our policies, email us at contact@deponce.io or by post to:
-Deponce LLC
-Phone: 4793407445
-
+<p>If you have any further questions or comments about us or our policies, email us at contact@deponce.io.</p>
+Phone: +1 800 DEP ONCE
+        </ul>
 
 
         </div>

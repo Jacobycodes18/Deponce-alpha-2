@@ -16,6 +16,7 @@
 						<div class="cell middle" style="color: #f0f0f0;">
 							<h1 class="b-404-heading"><span>403</span><br>Forbidden</h1>
 							<p>Must login to continue.</p>
+							<a href="account.php#login" class="button-style1">LOGIN</a>
 							<a href="../home" class="button-style1">GET BACK HOME</a>
 						</div>
 					</div>
@@ -52,7 +53,7 @@
                         <a href="settings"><div class="footer-social-button vc_custom_1505137671715 button-style1 btn"><i class="basic-ui-icon-settings-1"></i>Settings</div></a>
                     </div>
                     <div class="vc_column-inner vc_custom_1506089730274 ajax-container">
-                        
+
                     </div>
                 </div>
             </div>

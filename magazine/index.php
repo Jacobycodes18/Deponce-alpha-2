@@ -13,7 +13,7 @@
                 <br>
                 Jan - March
             </div>
-            <iframe style="padding-top:20px;" src="https://e.issuu.com/anonymous-embed.html?u=filmfestgent&d=ffg_focus_2018-hr" width="100%" height="600px" frameborder="0" allowfullscreen="true"></iframe>
+                <iframe style="padding-top:20px;" src="https://e.issuu.com/anonymous-embed.html?u=filmfestgent&d=ffg_focus_2018-hr" width="100%" height="650px" frameborder="0" allowfullscreen="true"></iframe>
         </div>
     </main>
    

@@ -756,7 +756,7 @@ function leadZero(n) { return (n < 10 ? '0' : '') + n; }
 	jQuery('.project-horizontal-slider').each(function(){
 		var head_slider = jQuery(this);
 		if(head_slider.find('.item').length > 1){
-			head_slider.imagesLoaded( function() {
+			 $(document).ready(function () {
 				head_slider.addClass('owl-carousel').owlCarousel({
 					items:1,
 					nav: true,
