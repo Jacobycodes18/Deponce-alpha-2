@@ -31,7 +31,7 @@
         echo 'logged in';
     }
 ?>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 80px !important;}.vc_custom_1505137671714{height: 64px;width: 100%;float:left;}.vc_custom_1505137671715{/*background-color: #e8e8e8;*/}.vc_custom_1506089730271{background-color: #f0f0f0 !important;height: 72vh;min-height: 400px;padding: 0px !important; display: block !important;}.vc_custom_1506089730272{background-color: #e8e8e8 !important;float: left;width: 180px;height: 100%; position: absolute; padding-top: 64px;}.vc_custom_1506089730274{padding-left: 180px;}.btn{width: 100%;margin:0px !important;border:none !important;}.viewing{background-color: #f0f0f0}#control{display: none;}@media screen and (max-width:640px){#control{display: block;float: left;position: absolute;}.vc_custom_1506089730272{padding:0px !important;}}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }.hide{display: none;}.fa {cursor: pointer;}</style></noscript>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 80px !important;}.vc_custom_1505137671714{height: 64px;width: 100%;float:left;}.vc_custom_1505137671715{/*background-color: #e8e8e8;*/}.vc_custom_1506089730271{overflow-x: scroll;background-color: #f0f0f0 !important;height: 72vh;min-height: 400px;padding: 0px !important; display: block !important;}.vc_custom_1506089730272{background-color: #e8e8e8 !important;float: left;width: 180px;height: 100%; position: absolute; padding-top: 64px;}.vc_custom_1506089730274{padding-left: 180px;}.btn{width: 100%;margin:0px !important;border:none !important;}.viewing{background-color: #f0f0f0}#control{display: none;}@media screen and (max-width:640px){#control{display: block;float: left;position: absolute;}.vc_custom_1506089730272{padding:0px !important;}}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }.hide{display: none;}.fa {cursor: pointer;}</style></noscript>
 
 
  <main class="main-row">
@@ -40,7 +40,7 @@
         <div id="v1" class="vc_row wpb_row vc_row-fluid vc_custom_1505137157448 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex view_ one">
             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
                 <div class="vc_column-inner vc_custom_1506089730271" style="padding:0px !important;">
-                   <i id="control" class="fa fa-list" style="float:left;padding-left: 20px;padding-top: 20px;font-size: 1.5rem;"></i>
+                   <i id="control" class="fa fa-list" style="float:left;padding-left: 20px;padding-top: 20px;font-size: 1.5rem;z-index:1;"></i>
                     <div class="footer-social-button vc_custom_1505137671714">
                         <?php if(isset($_SESSION['u_id'])){
                             echo '<h6 style="text-transform: capitalize;margin:5px;">Welcome, ';

@@ -10,7 +10,7 @@ td {
     border-top: 1px solid #b8b8b8 !important;
     background: white;
     line-height: 2rem;
-    min-width: 100px;
+    min-width: 80px;
     width: 160px;
     padding: 0 8px 0px 8px;
 }
@@ -18,6 +18,17 @@ td {
     tr {
         border-right: 1px solid #b8b8b8;
         border-left: 1px solid #b8b8b8;
+        
+    }
+    @media screen and (max-width:500px){
+        tr {
+            flex-direction: column;
+            display: flex;
+            width: 100%;
+        }
+        td {
+            width: 100%;
+        }
     }
 
 table {
@@ -38,6 +49,7 @@ th {
     }
     .mod {
         width: 100%;
+        margin-bottom: 20px;
     }
     .edit {
         float: right;
@@ -103,7 +115,7 @@ th {
         <div class="mod">
             <table>
                 <tr>
-                    <td class="TI"><strong>Full Name</strong></td><td><?php echo $_SESSION['u_first']; echo ' ';echo $_SESSION['u_last'];?></td>
+                    <td class="TI"><strong></strong></td><td><?php?></td>
                 </tr>
             </table>
         </div>
