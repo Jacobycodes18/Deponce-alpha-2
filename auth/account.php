@@ -62,7 +62,6 @@
      </div>
 </main>
 
-
 <script>
 $(document).ready(function(){
     $('.ajax-container').load('../accApp/templates/dashboard.php');
