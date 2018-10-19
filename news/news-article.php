@@ -1,6 +1,29 @@
 <?php
     include_once '../includes/header.php';
     
+    if(!isset($_GET['post'])) {
+        echo 'nothing';
+        exit();
+        
+    }else {
+            include_once '../includes/dbh.inc.php';
+        
+            $pid = mysqli_real_escape_string($conn, $_GET['post']);
+    
+            $sql = "SELECT post_title, post_subtitle, post_date, post_content, post_img FROM posts WHERE post_id = '$pid'";
+
+            $result = mysqli_query($conn, $sql);
+            $resultCheck = mysqli_num_rows($result);
+            if($resultCheck > 0) {
+                while($row = mysqli_fetch_assoc($result)) {
+                    $title = $row['post_title'];
+                    $sub = $row['post_subtitle'];
+                    $date = $row['post_date'];
+                    $content = $row['post_content'];
+                    $src = $row['post_img'];
+                }
+            }
+    }
 ?>
  
 <div class="header-space"></div>
@@ -9,12 +32,13 @@
     <div id="post-605" class="post-605 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion">
       <div class="site-content">
         <div class="heading-decor">
-          <?php //echo '<h1 class="h2">'$title'</h1>';?>
+          <h1 class="h2"><?php echo $title;?></h1>
         </div>
-        <div class="date"><?php //echo $post_date;?></div>
-        <div class="post-img"><?php //echo '<img width="1345" height="895" src="'$src'" class="attachment- size-" alt=""/>';?></div>
+        <div class="date"><?php echo $sub;?></div>
+        <div class="date"><?php echo $date;?></div>
+        <div class="post-img"><?php echo '<img width="1345" height="895" src="'.$src.'" class="attachment- size-" alt=""/>';?></div>
         <div class="post-content">
-          <?php //echo '<p>'$post_content'</p>'?>
+          <p><?php echo $content;?></p>
         </div>
       </div>
       <div class="post-bottom">
@@ -41,7 +65,6 @@
       </div>
       <!-- #comments -->
     </div>
-
   </div>
 </main>
 
