@@ -59,8 +59,29 @@
 </div>
         </div>
     </main>
-   
+   <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+
+<div class="footer-social-button">
+  <!-- Begin Mailchimp Signup Form -->
+
+<div class="tac"><div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
+<form action="https://Deponce.us19.list-manage.com/subscribe/post?u=96247e192b51313d847a0f333&amp;id=5f706fe5ee" method="post" class="wpcf7-form" novalidate="novalidate" name="mc-embedded-subscribe-form" target="_blank">
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_96247e192b51313d847a0f333_5f706fe5ee" tabindex="-1" value=""></div>
+<div class="subscribe-form" style="">
+<input type="submit" value="Subscribe" name="subscribe" class="wpcf7-form-control wpcf7-submit button-style1"/>
+<div><span class="wpcf7-form-control-wrap mail"><input type="email" value="" name="EMAIL" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style1" aria-required="true" aria-invalid="false" placeholder="Enter your e-mail" style="height: 16px;width:320px;"/></span></div>
+</div>
+    <div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+</div>
+
+
 <?php
-    include '../includes/socials_.php';
+//    include '../includes/socials_.php';
     include '../includes/footer-main.php';
 ?>

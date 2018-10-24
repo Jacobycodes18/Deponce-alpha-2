@@ -5,7 +5,7 @@
 								<div style="padding:px;margin:0px;" class="h5"><a href="../home">DEPONCE</a></div>
 								     <nav class="navtwo visible_menu hover-style1">
                 <ul id="menu-navigation" class="menu">
-                    <p class="h6" style="padding:0;margin:0;margin-left:-5px;">Info</p>
+                    <p class="h6" style="padding:0;margin:0;margin-left:-5px;">Legal</p>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../faq/"><span>FAQ</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../privacy-policy/"><span>Privacy Policy</span></a>
                     <li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-293"><a href="../cookie-policy/"><span>Cookie Policy</span></a>

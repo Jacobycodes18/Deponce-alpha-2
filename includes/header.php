@@ -368,3 +368,4 @@
 <script type='text/javascript' src='../plugins/js_composer/assets/lib/waypoints/waypoints.min8b06.js'></script>
 <script type='text/javascript' src='../js/login.js'></script>
 <script></script>
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"96247e192b51313d847a0f333","lid":"5f706fe5ee","uniqueMethods":true}) })</script>
