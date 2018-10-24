@@ -47,7 +47,7 @@ session_start();
                         $_SESSION['u_last'] = $row['user_last'];
                         $_SESSION['u_email'] = $row['user_email'];
                         $_SESSION['u_uid'] = $row['user_uid'];
-                        $_SESSION['u_clearance'] = $row['clearance'];
+                        $_SESSION['u_clearance'] = 4;
                         header("Location: ../auth/account.php?login=success");
                         exit();
                         

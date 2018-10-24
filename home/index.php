@@ -26,7 +26,7 @@
 									<a href="https://twitter.com/ThisIsDeponce" class="item" target="_blank">
 										<i class="fa fa-twitter"></i> Twitter
 									</a>
-									<a href="#" class="item">
+									<a href="https://facebook.com/thisisdeponce" target="_blank" class="item">
 										<i class="fa fa-facebook"></i> Facebook
 									</a>
 								</div>

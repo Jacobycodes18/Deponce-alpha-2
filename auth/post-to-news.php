@@ -33,7 +33,7 @@
                         <br>
                         <input class="input wpcf7-form-control wpcf7-text wpcf7-validates-as-required style1" style="max-width: 500px;" type="text" id="title" name="title" style="border-bottom-color: #9d7245 !important;">
                         <br>
-                        <label for="subTitle">Post Sub-Title</label>
+                        <label for="subTitle">Post creds</label>
                         <input class="input wpcf7-form-control wpcf7-text wpcf7-validates-as-required style1" style="max-width: 500px;" type="text" id="subTitle" name="subTitle" style="border-bottom-color: #9d7245 !important;">
                         <br>
                         <label for="image">Post Image URL</label>
