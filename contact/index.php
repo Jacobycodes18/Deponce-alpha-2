@@ -63,9 +63,9 @@
 <input type="hidden" name="_wpcf7_container_post" value="753" />
 </div>
 <div class="tac" style="max-width: 350px; margin: 0 auto;">
-<span class="wpcf7-form-control-wrap name-p"><input type="text" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your name" /></span><br />
-<span class="wpcf7-form-control-wrap mail"><input type="text" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your e-mail" /></span><br />
-<span class="wpcf7-form-control-wrap text"><textarea name="message" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your Message"></textarea></span><br />
+<span class="wpcf7-form-control-wrap name-p"><input type="text" name="name" value="<?php if(isset($_POST['name'])){echo $_POST[''];}?>" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your name" /></span><br />
+<span class="wpcf7-form-control-wrap mail"><input type="text" name="email" value="<?php if(isset($_POST['email'])){echo $_POST['email'];}?>" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your e-mail" /></span><br />
+<span class="wpcf7-form-control-wrap text"><textarea name="message" cols="40" rows="4" value="<?php if(isset($_POST['message'])){echo $_POST['message'];}?>" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required style3" aria-required="true" aria-invalid="false" placeholder="Enter your Message"></textarea></span><br />
 <input type="submit" value="Submit" name="submit" class="wpcf7-form-control wpcf7-submit button-style1" />
 </div>
 <div class="wpcf7-response-output wpcf7-display-none"></div>

@@ -72,7 +72,8 @@
         } else {
             
                 echo
-            '<article class="post-9 page type-page status-publish hentry">
+            '<div class="header-space"></div>
+            <article class="post-9 page type-page status-publish hentry">
             <div class="site-content">
                 <div class="heading-decor">
                     <h1 class="h2">Reset Password</h1>

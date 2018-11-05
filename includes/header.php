@@ -67,7 +67,7 @@
                 <form method="POST" action="../includes/login.inc.php">
                     <div class="tac" style="max-width: 350px; margin: 0 auto;">
                         <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="user" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="user" value="<?php if(isset($_POST['user'])){echo $_POST['user'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
                         </span>
                           <br>
                            <span class="wpcf7-form-control-wrap">
@@ -100,19 +100,19 @@
                 <form method="POST" action="../includes/signup.inc.php">
                     <div class="tac" style="max-width: 350px; margin: 0 auto;">
                         <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="fname" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Firstname">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="fname" value="<?php if(isset($_POST['fname'])){echo $_POST['fname'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Firstname">
                         </span>
                           <br>
                            <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="lname" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Lastname">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="lname" value="<?php if(isset($_POST['lname'])){echo $_POST['lname'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Lastname">
                         </span>
                           <br>
                            <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="email" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Email">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="email" value="<?php if(isset($_POST['email'])){echo $_POST['email'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Email">
                         </span>
                         <br>
                            <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="username" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="username" value="<?php if(isset($_POST['username'])){echo $_POST['username'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
                         </span>
                         <br>
                            <span class="wpcf7-form-control-wrap">
