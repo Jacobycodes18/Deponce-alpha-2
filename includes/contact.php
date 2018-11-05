@@ -1,4 +1,7 @@
 <?php
+
+    session_start();
+
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
 
@@ -11,6 +14,8 @@
         $name = mysqli_real_escape_string($conn, $_POST['name']);
         $email = mysqli_real_escape_string($conn, $_POST['email']);
         $msg = mysqli_real_escape_string($conn, $_POST['message']);
+        
+        $_SESSION['POSTDATA'] = $_POST;
         
         if(empty($name) || empty($email) || empty($msg)) {
             header("Location: ../contact?error=empty");
