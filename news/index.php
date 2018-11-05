@@ -9,7 +9,7 @@
     $resultCheck = mysqli_num_rows($result);
     if($resultCheck > 0) {
         while($row = mysqli_fetch_assoc($result)) {
-//            echo 'again';
+            
             $title = $row['post_title'];
             $sub = $row['post_subtitle'];
             $date = $row['post_date'];
@@ -17,7 +17,7 @@
             $id = $row['post_id'];
             $img = $row['post_img'];
             
-            $posts .= '<article class="blog-item category-lifestyle with-image col-xs-12">
+            $arr[] = '<article class="blog-item category-lifestyle with-image col-xs-12">
                         <div class="wrap">
                             <div class="img">
                                 <a id="ip" href="news-article.php?post='.$id.'" style="background-image: url('.$img.');"></a>
@@ -36,7 +36,11 @@
                             </div>
                         </div>
                     </article>';
+            $arrr = array_reverse($arr);
         }
+          
+            
+        
     }
 ?>
 
@@ -50,7 +54,7 @@
                 <div class="heading-decor-s tac">
                     <h2 style="text-align: center" class="h vc_custom_heading"><div>News & Updates</div></h2></div>
                 <div class="blog-items row blog-type-horizontal blog-59bfa5cd550aa ">
-                   <?php print $posts?>
+                   <?php print_r($arrr);?>
                 </div>
                 <div class="load-button tac"><a href="#" data-wrap=".blog-59bfa5cd550aa" data-max="10" data-start-page="1" data-next-link="http://deponce.jacobyclarke.io/testd/blog-horizontal/page/2/" class="button-style1"><span>Load more</span></a></div>
             </div>
