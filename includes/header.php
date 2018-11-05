@@ -285,11 +285,26 @@
                     </li>
                     
                 </ul>
+                
             </nav>
+            
             <div class="butter-button nav-button visible_menu">
                 <div></div>
             </div>
-            <div class="header-minicart woocommerce header-minicart-novo">
+            <style>
+                @media screen and (min-width:650px){
+                .header-minicart.o:after {
+                    content: "";
+                    border: solid #9d7245 0.8px;
+                    height: 55px;
+                    position: absolute;
+                    top: 10px;
+                    margin-left: -15px;
+
+                }
+                }
+            </style>
+            <div class="header-minicart woocommerce header-minicart-novo o">
                 <div class="hm-cunt"><i class="basic-ui-icon-profile"></i>
                    <?php
                         if (isset($_SESSION['u_id'])) {
@@ -299,7 +314,6 @@
                         }
                     ?></div>
                 <div class="minicart-wrap">
-
                     <ul class="cart_list product_list_widget ">
                         <?php
                             if(isset($_SESSION['u_id'])) {
@@ -322,8 +336,13 @@
 
                     </ul>
                     <!-- end product list -->
-                   
                 </div>
+            </div>
+            <div class="header-minicart woocommerce header-minicart-novo">
+                <div class=""><i class="" style="font-size:15px;">sign in</i>
+                   
+                  </div>
+                
             </div>
 <!--            <div class="search-button"><i class="basic-ui-icon-search"></i></div>-->
         </div>
