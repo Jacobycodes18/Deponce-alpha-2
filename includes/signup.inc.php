@@ -28,7 +28,7 @@ if (isset($_POST['submit'])) {
                 header("Location: ../home/?signup=passwordsDontMatch#signup");
                 exit();
             } else {
-        // check for validation
+        // check for validation of names
         if (!preg_match("/^[a-zA-Z]*$/", $fname) || !preg_match("/^[a-zA-Z]*$/", $lname)) {
             header("Location: ../home/?signup=invalid#signup");
             exit();
