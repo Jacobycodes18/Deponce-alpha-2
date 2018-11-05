@@ -1,5 +1,7 @@
 <?php 
 
+session_start();
+
     use PHPMailer\PHPMailer\PHPMailer;
     use PHPMailer\PHPMailer\Exception;
 
@@ -13,7 +15,9 @@ if (isset($_POST['submit'])) {
     $user  = mysqli_real_escape_string($conn, $_POST['username']);
     $pass = mysqli_real_escape_string($conn, $_POST['password']);
     $cpass = mysqli_real_escape_string($conn, $_POST['cpassword']);
-     
+    
+    $_SESSION['POSTDATA'] = $_POST;
+
     //error handlers 
     //check for empty fields
     if (empty($fname) || empty($lname) || empty($email) || empty($user) || empty($pass) || empty($cpass)) {
@@ -148,6 +152,7 @@ if (isset($_POST['submit'])) {
                     
                         $_SESSION['email'] = $row['user_email'];
                         $_SESSION['token'] = $row['token'];
+                        
                         
                     header("Location: ../home/?signup=success#signup");
                     exit();

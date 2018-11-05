@@ -9,9 +9,10 @@ session_start();
         $uid = mysqli_real_escape_string($conn, $_POST['user']);
         $pwd = mysqli_real_escape_string($conn, $_POST['pass']);
 
+        $_SESSION['POSTDATA'] = $_POST;
         //error handlers
         //check if inputs are empty
-        if ($_SESSION) {
+        if (isset($_SESSION['u_id'])) {
             header("Location: ../home/?login=alreadyLoggedIn");
             exit();
         } else {

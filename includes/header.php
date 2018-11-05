@@ -1,5 +1,7 @@
 <?php
-    session_start();
+    session_start(); 
+
+    if(isset($_SESSION['POSTDATA'])){$_POST = $_SESSION['POSTDATA'];}
 ?>
 
 <!DOCTYPE html>
@@ -290,7 +292,7 @@
             <div class="header-minicart woocommerce header-minicart-novo">
                 <div class="hm-cunt"><i class="basic-ui-icon-profile"></i>
                    <?php
-                        if ($_SESSION) {
+                        if (isset($_SESSION['u_id'])) {
                             echo '<span style="background:green;"><i style="margin:0;padding-top:3px;" class="fa fa-check"></i></span>';
                         } else {
                             echo '<span><i style="margin:0;padding-top:3px;" class="fa fa-unlink"></i></span>';
