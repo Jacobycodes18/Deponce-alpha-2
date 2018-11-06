@@ -292,6 +292,23 @@
                 <div></div>
             </div>
             <style>
+                #out:hover {
+                    color: #9d7245 !important;
+                    cursor: pointer;
+                }
+                
+                .button-style1 {
+                    width: 100%;
+                    text-align: center;
+                    border: none;
+                }
+                .cart_list.product_list_widget {
+                    margin:0 !important;
+                    padding:0 !important;
+                }
+                .minicart-wrap {
+                    width: 200px !important;
+                }
                 @media screen and (min-width:650px){
                 .header-minicart.o:after {
                     content: "";
@@ -319,11 +336,11 @@
                             if(isset($_SESSION['u_id'])) {
                                 echo '<p style="padding: 0;margin:0;">Welcome,</p>';
                                 echo  $_SESSION['u_uid'];
-                                echo '<a href="../auth/account.php" style="padding: 10px 0px 10px 0px;margin:0;">My Account</a>';
+                                echo '<a class="button-style1 " href="../auth/account.php" style="padding: 10px 0px 10px 0px;margin:0;">My Account</a>';
                                 if($_SESSION['u_clearance'] > 3){
-                                echo '<a href="../auth/post-to-news.php" style="padding: 10px 0px 10px 0px;margin:0;">Post an Update</a>';}
+                                echo '<a class="button-style1 " href="../auth/post-to-news.php" style="padding: 10px 0px 10px 0px;margin:0;">Post an Update</a>';}
                               echo '<form action="../includes/logout.inc.php" method="post">
-                       <input class="wpcf7-form-control wpcf7-submit button-style1" type="submit" name="submit" value="Logout">
+                       <input id="out" style="background:transparent;border:none;color:white;font-size:18px;" class="wpcf7-form-control wpcf7-submit" type="submit" name="submit" value="Logout">
                    </form>';
                                 
                             } else {
@@ -339,9 +356,18 @@
                 </div>
             </div>
             <div id="acc" style="margin-left: 10px;" class="header-minicart woocommerce header-minicart-novo">
-                <div class=""><i class="" style="font-size:15px;">sign in</i>
+               <?php
+                if(isset($_SESSION['u_id'])) {
+                    echo '<div class=""><i class="" style="font-size:15px;">Account</i>
                    
-                  </div>
+                  </div>';
+                } else {
+                    echo '<div class=""><i class="" style="font-size:15px;">Sign in</i>
+                   
+                  </div>';
+                }
+                ?>
+                
                 
             </div>
 <!--            <div class="search-button"><i class="basic-ui-icon-search"></i></div>-->
