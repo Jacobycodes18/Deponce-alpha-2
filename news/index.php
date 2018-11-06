@@ -4,6 +4,7 @@
     include_once '../includes/dbh.inc.php';
     
     $sql = "SELECT * FROM posts";
+    
 
     $result = mysqli_query($conn, $sql);
     $resultCheck = mysqli_num_rows($result);
@@ -16,6 +17,10 @@
             $content = $row['post_content'];
             $id = $row['post_id'];
             $img = $row['post_img'];
+            
+            $getLikes = "SELECT * FROM post_likes WHERE article = '$id'";
+            $run = mysqli_query($conn, $getLikes);
+            $likes = mysqli_num_rows($run);
             
             $arr[] = '<article class="blog-item category-lifestyle with-image col-xs-12">
                         <div class="wrap">
@@ -31,8 +36,8 @@
                             </div>
                             <div class="clear"></div>
                             <div class="bottom like-on comment-on">
-                                <div class="col"><a href="#" class="zilla-likes" id="zilla-likes-603" title="Like this" data-postfix=" like"><i class="multimedia-icon-heart"></i> <span>0 likes</span></a></div>
-                                <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="../lifestyle/wishing-well/index.html#comments">1 Comment</a></div>
+                                <div class="col"><a class="zilla-likes" id="zilla-likes-603" title="Like this" data-likes"0" data-id="'.$id.'"><i class="multimedia-icon-heart"></i> <span id="likes">'.$likes.' likes</span></a></div>
+                                <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="">1 Comment</a></div>
                             </div>
                         </div>
                     </article>';
@@ -43,7 +48,31 @@
         
     }
 ?>
-
+<script type="text/javascript">
+    $(document).ready(function(){
+        //when user clicks on like
+        $('.zilla-likes').click(function(){
+            console.log('liked');
+            var id = $(this).data('id');
+            $.ajax({
+                url: '../auth/like.php?like='+id+'',
+                type: 'post',
+                async: false,
+                data:{
+                    'id': id
+                },
+                success:function(){
+                    
+                }
+            })
+        });
+    });
+</script>
+    <style>
+        .zilla-likes > .multimedia-icon-heart {
+            cursor: pointer;
+        }
+</style>
     <main class="main-row">
         <div class="container">
             <div class="header-space"></div>

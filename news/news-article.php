@@ -21,11 +21,19 @@
                     $date = $row['post_date'];
                     $content = $row['post_content'];
                     $src = $row['post_img'];
+                    
+                    $getLikes = "SELECT * FROM post_likes WHERE article = '$pid'";
+                    $run = mysqli_query($conn, $getLikes);
+                    $likes = mysqli_num_rows($run);
                 }
             }
     }
 ?>
- 
+ <style>
+     .zilla-likes {
+         cursor: pointer;
+     }
+</style>
 <div class="header-space"></div>
  <main class="main-row">
   <div class="container">
@@ -42,7 +50,7 @@
         </div>
       </div>
       <div class="post-bottom">
-        <a href="#" class="zilla-likes" id="zilla-likes-605" title="Like this" data-postfix=" like"><i class="multimedia-icon-heart"></i> <span>0 likes</span></a>
+        <a class="zilla-likes" id="zilla-likes-605" title="Like this" data-id="<?php echo $pid;?>"><i class="multimedia-icon-heart"></i> <span><?php echo $likes;?> likes</span></a>
       </div>
 
       <div id="comments" class="comments-area">
@@ -67,7 +75,26 @@
     </div>
   </div>
 </main>
-
+<script type="text/javascript">
+    $(document).ready(function(){
+        //when user clicks on like
+        $('.zilla-likes').click(function(){
+            console.log('liked');
+            var id = $(this).data('id');
+            $.ajax({
+                url: '../auth/like.php?like='+id+'',
+                type: 'post',
+                async: false,
+                data:{
+                    'id': id
+                },
+                success:function(){
+                    
+                }
+            })
+        });
+    });
+</script>
 
 <?php
     include '../includes/socials_.php';

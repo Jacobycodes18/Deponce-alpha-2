@@ -338,7 +338,7 @@
                     <!-- end product list -->
                 </div>
             </div>
-            <div class="header-minicart woocommerce header-minicart-novo">
+            <div id="acc" style="margin-left: 10px;" class="header-minicart woocommerce header-minicart-novo">
                 <div class=""><i class="" style="font-size:15px;">sign in</i>
                    
                   </div>
