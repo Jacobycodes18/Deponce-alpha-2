@@ -52,6 +52,7 @@
 
 <body class="page-template page-template-template-landing page-template-template-landing-php page page-id-977 woocommerce-js site-light header_type_logo_left header_space_no right-click-disable wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
 
+
 <div class="right-click-disable-message main-row" data-anchor="login">
         <div class="container">
             <div class="cell">
@@ -66,7 +67,7 @@
                 <form method="POST" action="../includes/login.inc.php">
                     <div class="tac" style="max-width: 350px; margin: 0 auto;">
                         <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="user" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="user" value="<?php if(isset($_POST['user'])){echo $_POST['user'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
                         </span>
                           <br>
                            <span class="wpcf7-form-control-wrap">
@@ -74,7 +75,9 @@
                         </span>
                         <br>
                         <input class="wpcf7-form-control wpcf7-submit button-style1" type="submit" name="submit" value="Submit">
+                        <p class="lost-password" style="margin-left: 0;"><a href="../reset-password/">Forgot Password</a></p>
                     </div>
+                    
                     <?php
                             include_once 'login-errors.php';
                     ?>
@@ -97,19 +100,19 @@
                 <form method="POST" action="../includes/signup.inc.php">
                     <div class="tac" style="max-width: 350px; margin: 0 auto;">
                         <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="fname" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Firstname">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="fname" value="<?php if(isset($_POST['fname'])){echo $_POST['fname'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Firstname">
                         </span>
                           <br>
                            <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="lname" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Lastname">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="lname" value="<?php if(isset($_POST['lname'])){echo $_POST['lname'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Lastname">
                         </span>
                           <br>
                            <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="email" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Email">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="email" value="<?php if(isset($_POST['email'])){echo $_POST['email'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Email">
                         </span>
                         <br>
                            <span class="wpcf7-form-control-wrap">
-                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="username" value="" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
+                            <input class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required style3" type="text" name="username" value="<?php if(isset($_POST['username'])){echo $_POST['username'];}?>" size="40" aria-required="true" aria-invalid="false" placeholder="Username">
                         </span>
                         <br>
                            <span class="wpcf7-form-control-wrap">
@@ -267,7 +270,7 @@
                     </li>
                     <li id="menu-item-298" class="<?php if($page=='works'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-298"><a href="../our-work/"><span>Our Work</span></a>
                         <ul class="sub-menu">
-                            <li id="menu-item-297" class="<?php if($sub=='con-dev'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="../content-development/"><span>Content Development</span></a></li>
+                            <li id="menu-item-297" class="<?php if($sub=='con-dev'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="../branding/"><span>Branding</span></a></li>
                             <li id="menu-item-295" class="<?php if($sub=='photo'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="../photo-gallery/"><span>Photo Gallery</span></a></li>
                             <li id="menu-item-294" class="<?php if($sub=='reel'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="../film-reel/"><span>Film Reel</span></a></li>
                         </ul>
@@ -280,28 +283,62 @@
                     </li>
                     
                 </ul>
+                
             </nav>
+            
             <div class="butter-button nav-button visible_menu">
                 <div></div>
             </div>
-            <div class="header-minicart woocommerce header-minicart-novo">
+            <style>
+                #out:hover {
+                    color: #9d7245 !important;
+                    cursor: pointer;
+                }
+                
+                .button-style1.btn{
+                    width: 100%;
+                    text-align: center;
+                    border: none;
+                }
+                .cart_list.product_list_widget {
+                    margin:0 !important;
+                    padding:0 !important;
+                }
+                .minicart-wrap {
+                    width: 200px !important;
+                }
+                @media screen and (min-width:650px){
+                .header-minicart.o:after {
+                    content: "";
+                    border: solid #9d7245 0.8px;
+                    height: 55px;
+                    position: absolute;
+                    top: 10px;
+                    margin-left: -15px;
+
+                }
+                }
+            </style>
+            <div class="header-minicart woocommerce header-minicart-novo o">
                 <div class="hm-cunt"><i class="basic-ui-icon-profile"></i>
                    <?php
-                        if ($_SESSION) {
+                        if (isset($_SESSION['u_id'])) {
                             echo '<span style="background:green;"><i style="margin:0;padding-top:3px;" class="fa fa-check"></i></span>';
                         } else {
                             echo '<span><i style="margin:0;padding-top:3px;" class="fa fa-unlink"></i></span>';
                         }
                     ?></div>
                 <div class="minicart-wrap">
-
                     <ul class="cart_list product_list_widget ">
                         <?php
                             if(isset($_SESSION['u_id'])) {
                                 echo '<p style="padding: 0;margin:0;">Welcome,</p>';
                                 echo  $_SESSION['u_uid'];
+                                echo '<a class="button-style1 btn" href="../auth/account.php" style="padding: 10px 0px 10px 0px;margin:0;">My Account</a>';
+                                if($_SESSION['u_clearance'] > 3){
+                                echo '<a class="button-style1 btn" href="../auth/post-to-news.php" style="padding: 10px 0px 10px 0px;margin:0;">Post an Update</a>';}
                               echo '<form action="../includes/logout.inc.php" method="post">
-                       <input class="wpcf7-form-control wpcf7-submit button-style1" type="submit" name="submit" value="Logout">
+                       <input id="out" style="background:transparent;border:none;color:#181818;font-size:18px;" class="wpcf7-form-control wpcf7-submit" type="submit" name="submit" value="Logout">
                    </form>';
                                 
                             } else {
@@ -314,8 +351,22 @@
 
                     </ul>
                     <!-- end product list -->
-                   
                 </div>
+            </div>
+            <div id="acc" style="margin-left: 10px;" class="header-minicart woocommerce header-minicart-novo">
+               <?php
+                if(isset($_SESSION['u_id'])) {
+                    echo '<div class=""><i class="" style="font-size:15px;">Account</i>
+                   
+                  </div>';
+                } else {
+                    echo '<div class=""><i class="" style="font-size:15px;">Sign in</i>
+                   
+                  </div>';
+                }
+                ?>
+                
+                
             </div>
 <!--            <div class="search-button"><i class="basic-ui-icon-search"></i></div>-->
         </div>

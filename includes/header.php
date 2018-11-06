@@ -297,7 +297,7 @@
                     cursor: pointer;
                 }
                 
-                .button-style1 {
+                .button-style1.btn{
                     width: 100%;
                     text-align: center;
                     border: none;
@@ -336,9 +336,9 @@
                             if(isset($_SESSION['u_id'])) {
                                 echo '<p style="padding: 0;margin:0;">Welcome,</p>';
                                 echo  $_SESSION['u_uid'];
-                                echo '<a class="button-style1 " href="../auth/account.php" style="padding: 10px 0px 10px 0px;margin:0;">My Account</a>';
+                                echo '<a class="button-style1 btn" href="../auth/account.php" style="padding: 10px 0px 10px 0px;margin:0;">My Account</a>';
                                 if($_SESSION['u_clearance'] > 3){
-                                echo '<a class="button-style1 " href="../auth/post-to-news.php" style="padding: 10px 0px 10px 0px;margin:0;">Post an Update</a>';}
+                                echo '<a class="button-style1 btn" href="../auth/post-to-news.php" style="padding: 10px 0px 10px 0px;margin:0;">Post an Update</a>';}
                               echo '<form action="../includes/logout.inc.php" method="post">
                        <input id="out" style="background:transparent;border:none;color:white;font-size:18px;" class="wpcf7-form-control wpcf7-submit" type="submit" name="submit" value="Logout">
                    </form>';
