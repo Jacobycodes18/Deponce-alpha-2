@@ -3,6 +3,17 @@
     if (!$_SESSION) {
         exit();
     }
+
+    $c = $_SESSION['u_clearance'];
+
+    if($c == 1) {$accType = 'Standard User';}
+    if($c == 2) {$accType = 'Premium';}
+    if($c == 3) {$accType = 'Standard Client';}
+    if($c == 4) {$accType = 'Executive Client';}
+    if($c == 5) {$accType = 'Moderator';}
+    if($c == 6) {$accType = 'Admin';}
+
+    
 ?>
 <style>
 td {
@@ -94,7 +105,7 @@ th {
                     <td class="TI"><strong>Username</strong></td><td><?php echo $_SESSION['u_uid']?><i class="fa fa-pencil edit"></i></td>
                 </tr>
                 <tr>
-                    <td class="TI"><strong>Password</strong></td><td><a href="#">Change Password</a></td>
+                    <td class="TI"><strong>Password</strong></td><td><a href="../auth/change-pwd.php">Change Password</a></td>
                 </tr>
             </table>
         </div>
@@ -115,7 +126,7 @@ th {
         <div class="mod">
             <table>
                 <tr>
-                    <td class="TI"><strong></strong></td><td><?php?></td>
+                    <td class="TI"><strong>Account type:</strong></td><td><?php echo $accType;?></td>
                 </tr>
             </table>
         </div>

@@ -345,7 +345,6 @@
                                 
                             } else {
                                 echo '<li class="empty" style="justify-self:start;" id="U-login"><a href="#login">User Sign in</a></li>
-                                        <li class="empty" style="justify-self:start;" id="C-login"><a href="#login">Client Portal</a></li>
                                         <li class="empty" style="justify-self:start;" id="signup_"><a href="#signup">Sign Up</a></li>';
                             }
                         ?>

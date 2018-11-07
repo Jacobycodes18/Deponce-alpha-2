@@ -50,7 +50,7 @@
         </div>
       </div>
       <div class="post-bottom">
-        <a class="zilla-likes" id="zilla-likes-605" title="Like this" data-id="<?php echo $pid;?>"><i class="multimedia-icon-heart"></i> <span><?php echo $likes;?> likes</span></a>
+        <a class="zilla-likes" id="zilla-likes-605" title="Like this" data-likes="<?php echo $likes;?>" data-id="<?php echo $pid;?>"><i class="multimedia-icon-heart"></i><?php echo $likes;?> likes</a>
       </div>
 
       <div id="comments" class="comments-area">
@@ -78,9 +78,13 @@
 <script type="text/javascript">
     $(document).ready(function(){
         //when user clicks on like
+        
         $('.zilla-likes').click(function(){
-            console.log('liked');
+                        
             var id = $(this).data('id');
+            var l = $(this).data('likes')+1;
+            var thisForm = this;
+            
             $.ajax({
                 url: '../auth/like.php?like='+id+'',
                 type: 'post',
@@ -89,7 +93,7 @@
                     'id': id
                 },
                 success:function(){
-                    
+                    $(thisForm).html('<i class="multimedia-icon-heart"></i>' + l + ' likes');
                 }
             })
         });
