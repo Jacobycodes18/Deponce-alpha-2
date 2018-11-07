@@ -36,7 +36,7 @@
                             </div>
                             <div class="clear"></div>
                             <div class="bottom like-on comment-on">
-                                <div class="col"><a class="zilla-likes" id="zilla-likes-603" title="Like this" data-likes"0" data-id="'.$id.'"><i class="multimedia-icon-heart"></i> <span id="likes">'.$likes.' likes</span></a></div>
+                                <div class="col"><a class="zilla-likes" id="zilla-likes-603" title="Like this" data-likes="'.$likes.'" data-id="'.$id.'"><i class="multimedia-icon-heart"></i>'.$likes.' likes</a></div>
                                 <div class="col"><i class="multimedia-icon-speech-bubble-1"></i> <a href="">1 Comment</a></div>
                             </div>
                         </div>
@@ -51,9 +51,13 @@
 <script type="text/javascript">
     $(document).ready(function(){
         //when user clicks on like
+        
         $('.zilla-likes').click(function(){
-            console.log('liked');
+                        
             var id = $(this).data('id');
+            var l = $(this).data('likes')+1;
+            var thisForm = this;
+            
             $.ajax({
                 url: '../auth/like.php?like='+id+'',
                 type: 'post',
@@ -62,7 +66,7 @@
                     'id': id
                 },
                 success:function(){
-                    
+                    $(thisForm).html('<i class="multimedia-icon-heart"></i>' + l + ' likes');
                 }
             })
         });
