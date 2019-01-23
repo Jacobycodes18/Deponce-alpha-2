@@ -156,7 +156,7 @@
 <header class="site-header header_logo_left light main-row">
     <div class="container-fluid">
         <div class="side-bar-button multimedia-icon-list"></div>
-        <div class="logo"><a href="../home/">DEPONCE</a></div>
+        <div class="logo"><a href="../home/"><img src="../logo/Dogo-Dark.png" alt=""><img style="margin-bottom: 20px;" src="../logo/Text-dark-web-crop.png" width="100px"></a></div>
         <div class="fr">
             <nav class="navigation visible_menu hover-style1">
                 <ul id="menu-navigation" class="menu">

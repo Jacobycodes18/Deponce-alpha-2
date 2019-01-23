@@ -33,26 +33,34 @@
 								</div>
 							</div>
 							<div class="banner banner-5aa262bd39171  pagination-right" style="">
-								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/taxis_skyline-insta_crop.jpg)" data-heading="DRIVING PROFIT" data-text="">
+								<div class="item banner-item-5aa262f17bc79 tac white"data-heading="DRIVING PROFIT" data-text="">
+									<div class="">
+										<video autoplay muted loop id="myVideo" width="100%">
+                                            <source src="../media/LOGO-loop.mp4" type="video/mp4">
+                                        </video>
+									</div>
+								</div>
+								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/building-1_16x9.jpg);" data-heading="DRIVING PROFIT" data-text="">
 									<div class="container">
 										<div class="cell middle">
 											<div class="heading">
 												<h1 class="h">THIS IS DEPONCE</h1>
 											</div>
-											<a href="#" class="button-style1">see more</a>
+<!--											<a href="#" class="button-style1">see more</a>-->
 										</div>
 									</div>
 								</div>
-								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/building-in-miami-Full.png)" data-heading="DRIVING PROFIT" data-text="">
+								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/karina-lambo.jpg)" data-heading="DRIVING PROFIT" data-text="">
 									<div class="container">
 										<div class="cell middle">
 											<div class="heading">
-												<h1 class="h">Big Business Image. Small Business Relationship.</h1>
+												<h1 class="h"></h1>
 											</div>
 											<a href="#" class="button-style1">see more</a>
 										</div>
 									</div>
 								</div>
+								
 							</div>
 						</div>
 					</div>
@@ -108,8 +116,8 @@ I’m a photographer.
 						<div class="tabs tabs-5af09db472339">
 							<div class="tabs-head"></div>
 							<div class="tabs-body">
-								<div class="item" data-name="My style">
-									<div class="text">My style is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph!</div>
+								<div class="item" data-name="Our Brand">
+									<div class="text">Our brand is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph!</div>
 									<a href="#" class="button-style1">view more</a>
 								</div>
 								<div class="item" data-name="mission">
@@ -142,10 +150,10 @@ I’m a photographer.
 						</div>
 						<div class="filter-button-group tac">
 							<button data-filter="*" class="active">All</button>
-							<button data-filter=".category-fashion">Fashion</button>
-							<button data-filter=".category-lifestyle">Lifestyle</button>
-							<button data-filter=".category-studio">Studio</button>
+							<button data-filter=".category-architecture">Architecture</button>
+							<button data-filter=".category-models">Models</button>
 							<button data-filter=".category-portraits">Portraits</button>
+							<button data-filter=".category-landscapes">Landscapes</button>
 							<button data-filter=".category-nature">Nature</button>
 						</div>
 						<div class="portfolio-items row portfolio-type-masonry portfolio_hover_type_1 portfolio-5aa29c71d02a3 popup-gallery">

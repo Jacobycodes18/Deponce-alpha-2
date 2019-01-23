@@ -25,75 +25,63 @@ Statement</div></h3></div>
 	<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-" href="#" title="">read more</a></div>
 </div></div></div></div>
 
-<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1506084142423"><div class="wpb_wrapper"><div class="heading-decor-s tac"><h3 style="text-align: center" class="h vc_custom_heading" ><div>Company Values</div></h3></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483962485"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_animate_when_almost_visible wpb_fadeIn fadeIn wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1506084142423"><div class="wpb_wrapper"><div class="heading-decor-s tac"><h3 style="text-align: center" class="h vc_custom_heading" ><div>The Deponce Distinction</div></h3></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483962485"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
 	<div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner vc_icon_element-size-xl vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#c48f56">
-		<span class="vc_icon_element-icon photo-icon-softbox" style="color: !important"></span></div>
+		<span class="vc_icon_element-icon multimedia-icon-checked" style="color: !important"></span></div>
 </div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h6 style="text-align: center;"><span style="text-transform: uppercase;">light composure</span></h6>
-<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">The world without photography will be meaningless to us if there is no light.</span></em></span></p>
+			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Dedication</span></h6>
+<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">We have a personal Commitment to deliver the best for our clients which is not less than we would want for ourselves.</span></em></span></p>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483969540"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
 	<div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner vc_icon_element-size-xl vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#c48f56">
-		<span class="vc_icon_element-icon photo-icon-photographer-with-camera" style="color: !important"></span></div>
+		<span class="vc_icon_element-icon photo-icon-large-format-camera" style="color: !important"></span></div>
 </div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Professional skills</span></h6>
-<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">The world without photography will be meaningless to us if there is no light.</span></em></span></p>
+			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Developmemt</span></h6>
+<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">We are constantly strategizing, analyzing data and monitoring your industry and overall business, to determine the specific direction of each type of content we create; That can stand out and keep your audience engaged and excited!</span></em></span></p>
 
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483974400"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
 	<div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner vc_icon_element-size-xl vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#c48f56">
-		<span class="vc_icon_element-icon photo-icon-camera-top-view" style="color: !important"></span></div>
+		<span class="vc_icon_element-icon web-design-icon-infographic" style="color: !important"></span></div>
 </div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Perfect Equipment</span></h6>
-<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">The world without photography will be meaningless to us if there is no light.</span></em></span></p>
+			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Design</span></h6>
+<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">All of our videos, photos, editing, audio and social media content is high quality, high preformance, and highly effective.</span></em></span></p>
 
 		</div>
 	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483979333"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1505483979333"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
 	<div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner vc_icon_element-size-xl vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#c48f56">
 		<span class="vc_icon_element-icon photo-icon-camera-synchronation" style="color: !important"></span></div>
 </div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h6 style="text-align: center;"><span style="text-transform: uppercase;">ultra hd</span></h6>
-<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">The world without photography will be meaningless to us if there is no light.</span></em></span></p>
+			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Distribution</span></h6>
+<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">We can happily make content all year long but if it is not distributed correctly, with regard to timing and targets, it will not have the desired impact for our clients.</span></em></span></p>
 
 		</div>
 	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483984191"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1505483984191"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
 	<div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner vc_icon_element-size-xl vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#c48f56">
 		<span class="vc_icon_element-icon photo-icon-eye" style="color: !important"></span></div>
 </div>
 
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
-			<h6 style="text-align: center;"><span style="text-transform: uppercase;">unic vision</span></h6>
-<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">The world without photography will be meaningless to us if there is no light.</span></em></span></p>
-
-		</div>
-	</div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner vc_custom_1505483989290"><div class="wpb_wrapper"><div 	class="vc_icon_element vc_icon_element-outer vc_icon_element-align-center vc_icon_element-have-style">
-	<div class="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-have-style-inner vc_icon_element-size-xl vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-custom" style="border-color:#c48f56">
-		<span class="vc_icon_element-icon photo-icon-macro" style="color: !important"></span></div>
-</div>
-
-	<div class="wpb_text_column wpb_content_element " >
-		<div class="wpb_wrapper">
-			<h6 style="text-align: center;"><span style="text-transform: uppercase;">focusing knowledges</span></h6>
-<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">The world without photography will be meaningless to us if there is no light.</span></em></span></p>
+			<h6 style="text-align: center;"><span style="text-transform: uppercase;">Destination</span></h6>
+<p style="text-align: center;"><span style="font-size: 14px;"><em><span style="font-weight: 300;">We don't stop at merely creating compelling content, but we create it with a specific destination in mind, so we can be sure to engage your key audiences, rapidly and effectivly.</span></em></span></p>
 
 		</div>
 	</div>

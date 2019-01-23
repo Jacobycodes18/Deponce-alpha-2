@@ -13,8 +13,17 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <link href="http://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic" rel="stylesheet" />
 
+
+<link rel="apple-touch-icon" sizes="180x180" href="../favicon_package_v0.16/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon_package_v0.16/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../favicon_package_v0.16/favicon-16x16.png">
+<link rel="manifest" href="../favicon_package_v0.16/site.webmanifest">
+<link rel="mask-icon" href="../favicon_package_v0.16/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+
 <link rel='stylesheet' id='contact-form-7-css'  href='../css/styles972f.css' type='text/css' media='all' />
-<link rel='stylesheet' id='novo-iconpicker-css'  href='../include/css/icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='novo-iconpicker-css'  href='../include/css/icons55fe.css' type='text/css' media='all' />
 <link rel='stylesheet' id='novo-style-default-css'  href='../css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='photoswipe-default-skin-css'  href='../css/default-skin.css' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='../css/js_composer.min8b06.css?ver=5.4.7' type='text/css' media='all' />
@@ -144,7 +153,7 @@
 						<div class="preloader_content__container">
 							<p class="preloader_content__container__text">DEPONCE</p>
 															<ul class="preloader_content__container__list count_5">
-																			<li class="preloader_content__container__list__item">Portfolio</li>
+																			<li class="preloader_content__container__list__item">Image</li>
 																			<li class="preloader_content__container__list__item">Photography</li>
 																			<li class="preloader_content__container__list__item">Magazine</li>
 																			<li class="preloader_content__container__list__item">Film Reel</li>
@@ -158,7 +167,8 @@
 <header class="site-header header_logo_left dark main-row">
     <div class="container-fluid">
         <div class="side-bar-button multimedia-icon-list"></div>
-        <div class="logo"><a href="../home/">DEPONCE</a></div>
+        <div class="logo"><a href="../home/"><img src="../logo/try-Light-on-Black.png" alt="">
+        <img id="text-de" style="margin-bottom: 20px;" src="../logo/Text-light-web-crop.png" width="100px"></a></div>
         <div class="fr">
             <nav class="navigation visible_menu hover-style1">
                 <ul id="menu-navigation" class="menu">
@@ -232,7 +242,7 @@
                         <ul class="sub-menu">
                             <li id="menu-item-839" class="<?php if($sub=='meet'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-839"><a href="../meet-the-team/"><span>Meet The Team</span></a>
                             <li id="menu-item-845" class="<?php if($sub=='about'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-845"><a href="../this-is-deponce/"><span>About Us</span></a></li>
-                            <li id="menu-item-844" class="<?php if($sub=='services'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-844"><a href="../services/"><span>Services</span></a></li>
+<!--                            <li id="menu-item-844" class="<?php if($sub=='services'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-844"><a href="../services/"><span>Services</span></a></li>-->
 <!--
                                 <ul class="sub-menu">
                                     
@@ -270,19 +280,17 @@
 -->
                         </ul>
                     </li>
-                    <li id="menu-item-298" class="<?php if($page=='works'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-298"><a href="../our-work/"><span>Our Work</span></a>
+                    <!--<li id="menu-item-298" class="<?php if($page=='works'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-298"><a href="../our-work/"><span>Our Work</span></a>
                         <ul class="sub-menu">
                             <li id="menu-item-297" class="<?php if($sub=='con-dev'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="../branding/"><span>Branding</span></a></li>
                             <li id="menu-item-295" class="<?php if($sub=='photo'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-295"><a href="../photo-gallery/"><span>Photo Gallery</span></a></li>
                             <li id="menu-item-294" class="<?php if($sub=='reel'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="../film-reel/"><span>Film Reel</span></a></li>
                         </ul>
-                    </li>
+                    </li>-->
                     <li id="menu-item-846" class="<?php if($page=='contact'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-custom menu-item-object-custom menu-item-846"><a href="../contact/"><span>Contact</span></a>
                         
                     </li> 
-                    <li id="menu-item-842" class="<?php if($page=='mag'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-custom menu-item-object-custom menu-item-846"><a href="../magazine/"><span>Magazine</span></a>
-                        
-                    </li>
+<!--                    <li id="menu-item-842" class="<?php if($page=='mag'){echo 'current-menu-ancestor ';}?>menu-item menu-item-type-custom menu-item-object-custom menu-item-846"><a href="../magazine/"><span>Magazine</span></a></li>-->
                     
                 </ul>
                 
@@ -320,8 +328,14 @@
 
                 }
                 }
+                @media screen and (max-width:650px){
+                    #text-de {
+                        display: none;
+                    }
+                }
+                
             </style>
-            <div class="header-minicart woocommerce header-minicart-novo o">
+<!--            <div class="header-minicart woocommerce header-minicart-novo o">
                 <div class="hm-cunt"><i class="basic-ui-icon-profile"></i>
                    <?php
                         if (isset($_SESSION['u_id'])) {
@@ -344,17 +358,18 @@
                    </form>';
                                 
                             } else {
-                                echo '<li class="empty" style="justify-self:start;" id="U-login"><a href="#login">User Sign in</a></li>
+                                 echo '<li class="empty" style="justify-self:start;" id="U-login"><a href="#login">User Sign in</a></li>
+                                        <li class="empty" style="justify-self:start;" id="C-login"><a href="#login">Client Portal</a></li>
                                         <li class="empty" style="justify-self:start;" id="signup_"><a href="#signup">Sign Up</a></li>';
                             }
                         ?>
                        
 
                     </ul>
-                    <!-- end product list -->
+                    <!-- end product list 
                 </div>
-            </div>
-            <div id="acc" style="margin-left: 10px;" class="header-minicart woocommerce header-minicart-novo">
+            </div>-->
+            <!--<div id="acc" style="margin-left: 10px;" class="header-minicart woocommerce header-minicart-novo">
                <?php
                 if(isset($_SESSION['u_id'])) {
                     echo '<div class=""><i class="" style="font-size:15px;">Account</i>
@@ -368,7 +383,7 @@
                 ?>
                 
                 
-            </div>
+            </div>-->
 <!--            <div class="search-button"><i class="basic-ui-icon-search"></i></div>-->
         </div>
     </div>

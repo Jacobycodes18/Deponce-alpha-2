@@ -1,7 +1,7 @@
 <?php
     include '../includes/header-light.php';
     
-    if(!$_SESSION) {
+    if(!$_SESSION['u_id']) {
         // If there is no session loaded display 403 banner then exit script
         echo '
         <div class="header-space"></div>

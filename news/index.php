@@ -4,7 +4,6 @@
     include_once '../includes/dbh.inc.php';
     
     $sql = "SELECT * FROM posts";
-    
 
     $result = mysqli_query($conn, $sql);
     $resultCheck = mysqli_num_rows($result);
@@ -22,6 +21,11 @@
             $run = mysqli_query($conn, $getLikes);
             $likes = mysqli_num_rows($run);
             
+            //see if liked 
+//            $liked = "SELECT users, article FROM post_likes WHERE users ='$user' AND article = '$id'";
+//             $res = mysqli_query($conn, $sql);
+//            $resCheck = mysqli_num_rows($result);
+
             $arr[] = '<article class="blog-item category-lifestyle with-image col-xs-12">
                         <div class="wrap">
                             <div class="img">
@@ -109,6 +113,7 @@
 </div>
     <div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
 </div>
+
 
 
 <?php
