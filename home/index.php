@@ -4,12 +4,40 @@
     include('../includes/header.php');
 
 ?>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1520603085521{padding-top: 50px;}.vc_custom_1520841068149{margin-top: -20px !important;padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1520605675565{padding-top: 55px !important;padding-right: 45px !important;padding-bottom: 50px !important;padding-left: 45px !important;}.vc_custom_1520604096302{background-image: url(../images/building-in-miami-Full.png) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1520838428699{background-image: url(../images/building-in-miami-Full.png) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 50px !important;}.vc_custom_1505137671714{padding-top: 30px !important;}.vc_custom_1506081637624{border-right-width: 0px !important;padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(../images/building-in-miami-Full.png) !important;}.vc_custom_1506081646999{padding-top: 80px !important;padding-right: 60px !important;padding-bottom: 80px !important;padding-left: 60px !important;background-color: #121212 !important;}</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1520603085521{padding-top: 50px;}.vc_custom_1520841068149{margin-top: -20px !important;padding-top: 0px !important;padding-bottom: 20px !important;}.vc_custom_1520605675565{padding-top: 55px !important;padding-right: 45px !important;padding-bottom: 50px !important;padding-left: 45px !important;}.vc_custom_1520604096302{background-image: url(../images/building-in-miami-Full.jpg) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1520838428699{background-image: url(../images/building-in-miami-Full.jpg) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1505137157448{padding-top: 50px !important;}.vc_custom_1505137671714{padding-top: 30px !important;}.vc_custom_1506081637624{border-right-width: 0px !important;padding-top: 250px !important;padding-bottom: 250px !important;background-image: url(../images/building-in-miami-Full.jpg) !important;}.vc_custom_1506081646999{padding-top: 80px !important;padding-right: 60px !important;padding-bottom: 80px !important;padding-left: 60px !important;background-color: #121212 !important;}</style>
 <noscript>
 	<style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style>
 </noscript>
 <style type="text/css" title="dynamic-css" class="options-output">body{font-family:Montserrat;font-weight:400;font-style:normal;color:#161616;font-size:16px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}h1, .h1{font-family:Montserrat;font-weight:700;font-style:normal;font-size:60px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, .h1,{opacity: 0;}.ie.wf-loading h1, .h1,{visibility: hidden;}h2, .h2{font-family:Montserrat;font-weight:700;font-style:normal;font-size:48px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h2, .h2,{opacity: 0;}.ie.wf-loading h2, .h2,{visibility: hidden;}h3, .h3{font-family:Montserrat;font-weight:700;font-style:normal;font-size:36px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h3, .h3,{opacity: 0;}.ie.wf-loading h3, .h3,{visibility: hidden;}h4, .h4{font-family:Montserrat;font-weight:700;font-style:normal;font-size:30px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h4, .h4,{opacity: 0;}.ie.wf-loading h4, .h4,{visibility: hidden;}h5, .h5{font-family:Montserrat;font-weight:700;font-style:normal;font-size:24px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h5, .h5,{opacity: 0;}.ie.wf-loading h5, .h5,{visibility: hidden;}h6, .h6{font-family:Montserrat;font-weight:700;font-style:normal;font-size:18px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h6, .h6,{opacity: 0;}.ie.wf-loading h6, .h6,{visibility: hidden;}.banner-404{color:#ffffff;}.banner-404 .b-404-heading{color:#c48f56;}.banner-coming-soon{color:#ffffff;}.banner-coming-soon .b-coming-heading{color:#c48f56;}@media screen and (max-device-width: 700px) { .h{font-size: 45px !important};}@media screen and (max-device-width: 340px) { .h{font-size: 40px !important};}
+
+    
+    #myVideo {
+        position: absolute;
+        top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+}
+    
+    .max-vid {
+        min-width: 100vw !important;
+        min-height: 100vh;
+        width: 100%;
+        height: 100%;
+    }
+    
+/*
+    @media screen and (max-device-width:1300px) {
+        .max-vid {
+            width: 100% !important;
+        }
+    } @media screen and (min-device-width:1300px) {
+        .max-vid {
+            height: 100% !important;
+        }
+    }
+*/
+    
 </style>
 
 <main class="main-row">
@@ -33,11 +61,32 @@
 								</div>
 							</div>
 							<div class="banner banner-5aa262bd39171  pagination-right" style="">
+							<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/karina-lambo.jpg)" data-heading="DRIVING PROFIT" data-text="">
+									<div class="container">
+										<div class="cell middle">
+											<div class="heading">
+												<h1 class="h"></h1>
+											</div>
+											<a href="#" class="button-style1">see more</a>
+										</div>
+									</div>
+								</div>
+								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/Web-banner.jpg)" data-heading="DRIVING PROFIT" data-text="">
+									<div class="container">
+										<div class="cell middle">
+											<div class="heading">
+												<h1 class="h"></h1>
+											</div>
+											<a href="#" class="button-style1">see more</a>
+										</div>
+									</div>
+								</div>
 								<div class="item banner-item-5aa262f17bc79 tac white"data-heading="DRIVING PROFIT" data-text="">
-									<div class="">
-										<video autoplay muted loop id="myVideo" width="100%">
-                                            <source src="../media/LOGO-loop.mp4" type="video/mp4">
-                                        </video>
+									<div class="max-vid">
+                                            <video autoplay muted loop id="myVideo">
+                                                <source src="../media/LOGO-loop.mp4" type="video/mp4">
+                                            </video>
+
 									</div>
 								</div>
 								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/building-1_16x9.jpg);" data-heading="DRIVING PROFIT" data-text="">
@@ -50,16 +99,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="item banner-item-5aa262f17bc79 tac white" style="background-image: url(../images/karina-lambo.jpg)" data-heading="DRIVING PROFIT" data-text="">
-									<div class="container">
-										<div class="cell middle">
-											<div class="heading">
-												<h1 class="h"></h1>
-											</div>
-											<a href="#" class="button-style1">see more</a>
-										</div>
-									</div>
-								</div>
+								
 								
 							</div>
 						</div>
@@ -79,19 +119,20 @@
 					<div clas15s="wpb_wrapper">
 						<div class="heading-decor-s tal">
 							<h3 style="text-align: left" class="h vc_custom_heading" >
-								<div>My name is Alex Novo,
-									<br />
-I’m a photographer.
+								<div>This is Deponce,
+								<br />
+
 								</div>
 							</h3>
 						</div>
 						<div class="wpb_text_column wpb_content_element " >
 							<div class="wpb_wrapper">
 								<p>
-									<span style="font-size: 18px; font-weight: 300;">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</span>
+									<span style="font-size: 18px; font-weight: 300;">We are content creation agency.
+Making Brands come alive with Deponce. </span>
 								</p>
 								<p>
-									<span style="font-size: 14px; font-weight: 200;">My style is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph! </span>
+									<span style="font-size: 14px; font-weight: 200;">As a content creation agency, we develop, design and distribute carefully produced pieces, that embody the Deponce Distinction. Light, color and imagination are in every written word, each captured video and photo, and the endless types of assets we provide for our clients, before sharing them with ideal destinations in mind. </span>
 								</p>
 							</div>
 						</div>
@@ -117,17 +158,19 @@ I’m a photographer.
 							<div class="tabs-head"></div>
 							<div class="tabs-body">
 								<div class="item" data-name="Our Brand">
-									<div class="text">Our brand is a combination between photojournalism and fine-art photography with a touch of fashion and creative lighting. My photos are inspired by light, color, techniques from black &amp; white processing, vintage photos, creative perspective, and of course, most importantly, the personalities of the people I photograph!</div>
+									<div class="text">Our brand to speaks to where we are going and who we have always been. What’s in a name? Everything. Deponce is synonymous with excellence. It sounds like the name of an ancient Spanish conqueror, but it actually was not. Not exactly…</div>
 									<a href="#" class="button-style1">view more</a>
 								</div>
 								<div class="item" data-name="mission">
-									<div class="text">2</div>
+									<div class="text">Our mission is to empower brands and businesses, with distinct content that creates positive impact.</div>
 									<a href="#" class="button-style1">view more</a>
 								</div>
+<!--
 								<div class="item" data-name="vision">
 									<div class="text">3</div>
 									<a href="#" class="button-style1">view more</a>
 								</div>
+-->
 							</div>
 						</div>
 					</div>
@@ -152,9 +195,9 @@ I’m a photographer.
 							<button data-filter="*" class="active">All</button>
 							<button data-filter=".category-architecture">Architecture</button>
 							<button data-filter=".category-models">Models</button>
-							<button data-filter=".category-portraits">Portraits</button>
-							<button data-filter=".category-landscapes">Landscapes</button>
-							<button data-filter=".category-nature">Nature</button>
+<!--							<button data-filter=".category-portraits">Portraits</button>-->
+<!--							<button data-filter=".category-landscapes">Landscapes</button>-->
+<!--							<button data-filter=".category-nature">Nature</button>-->
 						</div>
 						<div class="portfolio-items row portfolio-type-masonry portfolio_hover_type_1 portfolio-5aa29c71d02a3 popup-gallery">
 							<article class="portfolio-item category-fashion popup-item col-xs-12 col-sm-4 col-md-4">
@@ -341,30 +384,30 @@ About Our Company
 																			<div class="item">
 																				<div class="top">
 																					<div class="t"></div>
-																					<div class="cell">Actually deep mixtape master cleanse </div>
+																					<div class="cell">How can I work with your company?</div>
 																				</div>
-																				<div class="wrap">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</div>
+																				<div class="wrap">Relationships genuinely matter to Deponce. We want to know why you are interested in working with us and we want to get to know you, to ensure we are a fit for each other. Establishing a mutual relationship of trust is critical to our leveraging our services to realize your success.</div>
 																			</div>
 																			<div class="item">
 																				<div class="top">
 																					<div class="t"></div>
-																					<div class="cell">Cornhole vegan locavore retro</div>
+																					<div class="cell">Do I have to eliminate my own current team to work with Deponce?</div>
 																				</div>
-																				<div class="wrap">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</div>
+																				<div class="wrap">The offerings that Deponce provides are scalable and meet the needs of any size organization. We can integrate seamlessly into your marketing existing team or we can serve as your marketing team when such a void may exist.</div>
 																			</div>
 																			<div class="item">
 																				<div class="top">
 																					<div class="t"></div>
-																					<div class="cell">little dummy text for your mockup</div>
+																					<div class="cell">Do you work internationally?</div>
 																				</div>
-																				<div class="wrap">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</div>
+																				<div class="wrap">We work with companies and individuals across the US. And around the world. Our team includes members who speak Spanish, French and Swedish.</div>
 																			</div>
 																			<div class="item">
 																				<div class="top">
 																					<div class="t"></div>
-																					<div class="cell">organic copper mug brunch single</div>
+																					<div class="cell">Do you provide drone services?</div>
 																				</div>
-																				<div class="wrap">The world without photography will be meaningless to us if there is no light and color, which opens up our minds and expresses passion.</div>
+																				<div class="wrap">Deponce is becoming a leader in drone photography. We are pleased with the additional aerial and mapping imaging we can provide our clients by leveraging these offerings. </div>
 																			</div>
 																		</div>
 																	</div>

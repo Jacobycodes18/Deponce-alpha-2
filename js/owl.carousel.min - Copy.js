@@ -1755,10 +1755,10 @@
 	 * Default options.
 	 * @public
 	 */
-//	AutoRefresh.Defaults = {THISSSSSSSS
-//		autoRefresh: true,
-//		autoRefreshInterval: 500
-//	};
+	AutoRefresh.Defaults = {
+		autoRefresh: true,
+		autoRefreshInterval: 500
+	};
     console.log(AutoRefresh);
 	/**
 	 * Watches the element.
@@ -2618,7 +2618,6 @@
 	 * @return {Timeout}
 	 */
 	Autoplay.prototype._getNextTimeout = function(timeout, speed) {
-        timeout = 8000;
 		if ( this._timeout ) {
 			window.clearTimeout(this._timeout);
 		}
